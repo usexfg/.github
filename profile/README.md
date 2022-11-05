@@ -1,4 +1,4 @@
-# Fuego Network
+# 🔥Fuego Network
 
 ## Privacy-Protected Value Accrual 
 
