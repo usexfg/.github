@@ -15,7 +15,7 @@ Built by sound money advocates and freedom fighters, Fuego functions as a free &
 Fuego XFG is sound money with a fixed limited supply of 8 Million 8. (8M8)
 
 Fuego's Elder Node Council is a group of any Fuego users or Elder Node operators collaborating to contribute towards the open-source development of Fuego’s network codebase, expanding the Fuego ecosystem (merchants, services, etc) and/or general perpetuation of the XFG currency. 
-Elder Nodes (service nodes) also earn a percentage of each txn they process on the Fuego network. For more info on Elder Nodes see our [Guides](https://github.com/usexfg/guides) section.
+Elder Nodes (service nodes) also earn a percentage of each txn they process on the Fuego network. For more info on Elder Nodes and more tutorials see  [Guides](https://github.com/usexfg/Guides/wiki/Run-an-Elder-Node) section.
 
 ## Resources
 
