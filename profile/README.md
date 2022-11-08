@@ -1,10 +1,10 @@
 # 🔥Fuego Network
 
-## Privacy-Protected Value Accrual 
+### Privacy-Protected Ledger Deposits & P2P Messaging
 
 ![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/fuegoline.gif)
 
-Maintained by Fuego Developers, Elder Node Council and driven by Fuego Community.
+Maintained by Elder Node Council and driven by Fuego Community.
 
 ## What is Fuego (XFG) ?
 
