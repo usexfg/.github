@@ -20,8 +20,8 @@ Elder Nodes (service nodes) also earn a percentage of each txn they process on t
 ## Resources
 
 -   Web: <https://fuego.money>
--   Explorer: <http://explorer.fuego.money>
--   Explorer: <https://fangotango.hopto.org>
+-   Explorer: <http://fuego.spaceportx.net/>
+-   Explorer: <http://radioactive.sytes.net:8000/index.html>
 -   Wiki:  <https://github.com/usexfg/guides>
 -   Discord: <https://discord.gg/5UJcJJg>
 -   Twitter: <https://twitter.com/useXFG>
