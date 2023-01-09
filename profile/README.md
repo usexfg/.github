@@ -1,6 +1,6 @@
 # 🔥Fuego Network
 
-### Privacy-Protected Ledger Deposits & P2P Messaging
+### Privacy-Protected Payments, Defi Banking, & P2P Messaging.
 
 ![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/fuegoline.gif)
 
