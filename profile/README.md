@@ -1,6 +1,8 @@
 # 🔥Fuego Network
 
-### 🛡Secure Untraceable Payments 🔏 Encrypted P2P Messaging ⼛ Private Defi Banking
+### 🛡Secure Untraceable Payments 
+### 🔏 Encrypted P2P Messaging 
+### ⼛ Private Defi Banking
 
 ![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/fuegoline.gif)
 
