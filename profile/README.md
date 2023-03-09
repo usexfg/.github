@@ -13,7 +13,7 @@ Maintained by Fuego Elder Council and driven by Fuego Community.
 Fuego is a decentralized peer-to-peer privacy blockchain network based on the CryptoNote protocol which can be used to securely store, transfer, & [grow](https://github.com/usexfg/cold-dao)* monetary value- privately.
 Built by advocates of freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's decentralized design, the Fuego network is owned by no one and it’s public utility available to everyone.
 
-<b>$XFG</b> is the currency of the Fuego network, distributed by block rewards minted by miners in exchange for securing the network thru Proof of Work (mobile/IoT CPU, GPU) consensus every 8 minutes.  Fuego ($XFG) is sound money with a fixed limited supply of 8 Million 8. (8M8)
+<b>$XFG</b> is the currency of the Fuego network, distributed by block rewards minted by miners in exchange for powering and securing the network thru Proof of Work (mobile/IoT CPU, GPU) consensus every 8 minutes.  Fuego ($XFG) is sound money with a fixed limited supply of 8 Million 8. (8M8)
 
 Special features of Fuego network include untraceable peer-to-peer messages (up to 300 characters per message) as well as on-chain time-locked (3 month standard) deposits- also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn defi interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available since late 2022, with fully automated zero-knowledge proofs expected as soon as 2023.)
 
