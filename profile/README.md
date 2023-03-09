@@ -28,6 +28,5 @@ Fuego Elder Council is a group of any Fuego users or Elder Node operators contri
 -   Wiki:  <https://github.com/usexfg/guides>
 -   Discord: <https://discord.gg/5UJcJJg>
 -   Twitter: <https://twitter.com/useXFG>
--   Reddit: <https://www.reddit.com/r/Fango>
 -   Medium: <https://medium.com/@usexfg>
 -   Bitcoin Talk: <https://bitcointalk.org/index.php?topic=2712001>
