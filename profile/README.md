@@ -24,7 +24,7 @@ Fuego Elder Council is a group of any Fuego users or Elder Node operators contri
 
 -   Web: <https://fuego.money>
 -   Explorer: <http://fuego.spaceportx.net/>
--   Explorer: <http://radioactive.sytes.net:8000>
+-   Explorer: <https://explore-xfg.loudmining.com/>
 -   Wiki:  <https://github.com/usexfg/guides>
 -   Discord: <https://discord.gg/5UJcJJg>
 -   Twitter: <https://twitter.com/useXFG>
