@@ -26,7 +26,7 @@ Fuego's **Elder Council** is the group of Fuego community members and/or Elder N
 
 <sup>(*) Elder Nodes are service nodes which earn a percentage for each txn they relay on the Fuego network. For more info and a list of tutorials see our [Guides](https://github.com/usexfg/Guides/wiki/) section and feel free to contribute!
 
-<sub>Fuego only exists because of open-source contributions and regular people like you & I, running free (as in freedom) software on our machine. Whether it be an act of rebellion, act of altruism, or an act of freedom- our **action** is what matters. We are able to break free from tyranny by using & accepting decentralized privacy cryptocurrencies for our payments and purchases.<sup><sub>
+<sup> Fuego only exists because of open-source contributions and regular people like you & I, running free (as in freedom) software on our machines. Whether it be an act of rebellion, act of altruism, or an act of freedom- our **action** is what matters. We are able to break free from tyranny by using & accepting decentralized privacy cryptocurrencies for our payments and purchases.</sup></sup>
 
 ## Resources
 
