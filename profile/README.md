@@ -2,7 +2,7 @@
 
 ### 🛡 Secure Untraceable Payments 
 ### 🔏 Encrypted P2P Messaging 
-### ⼛  Privacy Defi Banking 🔜 
+### ⼛  Private DeFi Banking 🔜 
 
 ![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/fuegoline.gif)
 
