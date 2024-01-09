@@ -26,13 +26,17 @@ Fuego's **Elder Council** is the group of Fuego community members and/or Elder N
 
 <sup>(*) Elder Nodes are service nodes which earn a percentage for each txn they relay on the Fuego network. For more info and a list of tutorials see our [Guides](https://github.com/usexfg/Guides/wiki/) section and feel free to contribute!
 
-<sup> Fuego only exists because of open-source contributions and regular people like you & I, running free (as in freedom) software on our machines. Whether it be an act of rebellion, act of altruism, or an act of freedom- our **action** is what matters. We are able to break free from tyranny by using & accepting decentralized privacy cryptocurrencies for our payments and purchases.</sup></sup>
+<sup> Fuego only exists because of open-source contributions and regular people like you & I, running free (as in freedom) software on our machines. Whether it be an act of rebellion, act of altruism, or an act of freedom- our **action** is what matters. We are able to break free from tyranny simply by using & accepting decentralized privacy cryptocurrencies for our payments and purchases. *In hoc signo vinces*</sup></sup>
 
 ## Resources
 
--   Web: <https://fuego.money>
--   Explorer: <http://fuego.spaceportx.net/>
--   Explorer: <https://explore-xfg.loudmining.com/>
+-   Web: <https://usexfg.org>
+-   Block Explorers:  
+<http://fuego.spaceportx.net/>     
+<https://explore-xfg.loudmining.com/>  
+<http://radioactive.sytes.net:8000/index.html/>  
+<http://3.16.217.33/index.html/>
+-   Pool Mining: <https://miningpoolstats.stream/fuego>
 -   Wiki:  <https://github.com/usexfg/guides>
 -   Discord: <https://discord.gg/5UJcJJg>
 -   Twitter: <https://twitter.com/useXFG>
