@@ -6,14 +6,12 @@
 
 ![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/fuegoline.gif)
 
-Maintained by Fuego Elder Council
-
 ## What is Fuego ?
 
-Fuego is a decentralized peer-to-peer privacy blockchain network based on the CryptoNote protocol which allows users to securely store, transfer, & [collateralize](https://github.com/usexfg/cold-dao)* monetary value- privately.
-Built by advocates of freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's decentralized design, Fuego network is owned by no individual or corporation and it’s public utility is freely available to everyone.
+Fuego is a decentralized peer-to-peer privacy banking network based on the CryptoNote protocol, which enables users to securely store, transfer, & even [collateralize](https://github.com/usexfg/cold-dao)* monetary value -privately- by using XFG.
+Built by advocates of freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's **decentralized** design, Fuego network is owned by it's users; not by any singular individual or evil corp_oration- and is available to everyone as a public utility.
 
-Unique features of Fuego network include untraceable peer-to-peer messaging  (up to 300 characters per message) as well as time-locked (3 month standard) on-chain deposits- also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available since late 2022, with zero-knowledge proof of deposit and automated smart contract redemption expected as soon as 2023.)
+Unique features of Fuego network include untraceable peer-to-peer messaging  (up to 300 characters per message) as well as time-locked (3 month standard) on-chain deposits- also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available since late 2022, with zero-knowledge proof of deposit and automated smart contract redemption expected in 2024.)
 
 ## What is XF₲ ?
 
@@ -35,9 +33,9 @@ Fuego's **Elder Council** is the group of Fuego community members and/or Elder N
 <http://fuego.spaceportx.net/>     
 <https://explore-xfg.loudmining.com/>  
 <http://radioactive.sytes.net:8000/index.html/>  
-<http://3.16.217.33/index.html/>
+<http://3.16.217.33/>
 -   Pool Mining: <https://miningpoolstats.stream/fuego>
--   Wiki:  <https://github.com/usexfg/guides>
+-   Guides/Wiki:  <https://github.com/usexfg/guides>
 -   Discord: <https://discord.gg/5UJcJJg>
 -   Twitter: <https://twitter.com/useXFG>
 -   Medium: <https://medium.com/@usexfg>
