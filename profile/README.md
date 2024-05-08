@@ -15,7 +15,7 @@ Unique features of Fuego network include untraceable peer-to-peer messaging capa
 
 ## What is XF₲ ?
 
-**XF₲** (or *Fuego/ Fire*) is the currency used, and accounting unit within the Fuego network. XFG is minted into the network by block rewards, distributed to miners in exchange for powering and securing the Fuego blockchain thru Proof of Work (CPU/GPU) consensus approximately every 8 minutes. 
+**XF₲** (or *Fuego/ Fire*) is the currency used, and accounting unit within the Fuego network. XFG is minted into the network by block rewards, distributed to miners in exchange for powering and securing the Fuego blockchain thru Proof of Work (CPU/GPU) consensus approximately every 8 minutes. All transactions in XFG are made private by a default minimum ring-size of 3, increasing incrementally towards the network maximum mixin of 18.  
 
 Unlike traditional fiat currencies issued by central banking cartels of the world, Fuego (XFG) may actually be defined as more a form of hard money- for its fixed, limited supply of 8 Million **XF₲**. Fuego is designed to functionally thrive within a disinflationary ecosystem; incentived by transaction fee markets & lottery deposit block fees: [COLD](https://github.com/usexfg/cold-dao) fees are 8% rate of XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
 
