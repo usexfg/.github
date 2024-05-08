@@ -8,16 +8,16 @@
 
 ## What is Fuego ?
 
-Fuego is a decentralized peer-to-peer privacy banking network based on the CryptoNote protocol, which enables users to securely store, transfer, & even [collateralize](https://github.com/usexfg/cold-dao)* monetary value -privately- by using XFG.
-Built by advocates of freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's **decentralized** design, Fuego network is owned by it's users; not by any singular individual or evil corp_oration- and is available to everyone as a public utility.
+Fuego is a decentralized peer-to-peer privacy banking network based on the CryptoNote protocol, which enables users to securely store, transfer, & even [collateralize](https://github.com/usexfg/cold-dao)* monetary value- privately, by using XFG.
+Built by advocates of freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's **decentralized** design, Fuego network is owned by it's users; not by any singular individual or evil corp_oration- and is available free to everyone as a public utility.
 
-Unique features of Fuego network include untraceable peer-to-peer messaging  (up to 300 characters per message) as well as time-locked (3 month standard) on-chain deposits- also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available since late 2022, with zero-knowledge proof of deposit and automated smart contract redemption expected in 2024.)
+Unique features of Fuego network include untraceable peer-to-peer messaging capabilities (up to 300 characters per message) as well as time-locked (3 month standard) on-chain deposits- also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available since late 2022, with zero-knowledge proof of deposit and automated smart contract redemption expected in 2024.)
 
 ## What is XF₲ ?
 
-**XF₲** (or *Fuego/ Fire*) is the currency and accounting unit used within Fuego network. XFG is distributed into the network by block rewards, minted by miners in exchange for powering and securing the blockchain thru Proof of Work (CPU/GPU) consensus approximately every 8 minutes. 
+**XF₲** (or *Fuego/ Fire*) is the currency used, and accounting unit within the Fuego network. XFG is minted into the network by block rewards, distributed to miners in exchange for powering and securing the Fuego blockchain thru Proof of Work (CPU/GPU) consensus approximately every 8 minutes. 
 
-Unlike traditional fiat currencies issued by central banking cartels of the world, Fuego (XFG) can actually be defined as a form of hard money- for its fixed, limited supply of 8 Million **XF₲** and is designed to functionally thrive within a disinflationary ecosystem. (incentived thru transaction fees & [COLD](https://github.com/usexfg/cold-dao) fees, based on interest rates)
+Unlike traditional fiat currencies issued by central banking cartels of the world, Fuego (XFG) may actually be defined as more a form of hard money- for its fixed, limited supply of 8 Million **XF₲**. Fuego is designed to functionally thrive within a disinflationary ecosystem; incentived by transaction fee markets & lottery deposit block fees: [COLD](https://github.com/usexfg/cold-dao) fees are 8% rate of XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
 
 Fuego's **Elder Council** is the group of Fuego Elder Node* operators who are contributing toward the furtherment of Fuego’s open-source network code development, and/or glorious expansion of the Fuego ecosystem (merchants, services, tools, etc)
 
