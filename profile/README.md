@@ -1,10 +1,11 @@
-#   🔥 Fuego Network
-
+# 🔥 Fuego Network
 ### 🛡 Secure Untraceable Payments 
 ### 🔏 Encrypted P2P Messaging 
 ### ⼛  Private DeFi Banking 🔜 
+![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/slickxfg.gif)
 
-![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/fuegoline.gif)
+
+
 
 ## What is Fuego ?
 
@@ -15,11 +16,17 @@ Unique features of Fuego network include untraceable peer-to-peer messaging capa
 
 ## What is XF₲ ?
 
-**XF₲** (or *Fuego/ Fire*) is a privacy cryptocurrency and the accounting unit(s) used within the Fuego network. XFG is minted into the network by block rewards, distributed to miners in exchange for powering and securing the Fuego blockchain thru Proof of Work (CPU/GPU) consensus, approximately every 8 minutes. All transactions in XFG are already  private by default, much like cash or paper money is- only better.
+**XF₲** (or *Fuego/ Fire*) is a privacy cryptocurrency and the accounting unit(s) used within the Fuego network. XFG is minted into the network by block rewards, distributed to miners in exchange for powering and securing the Fuego blockchain thru Proof of Work (CPU/GPU) consensus, approximately every 8 minutes. 
 
-*Unlike* traditional fiat currencies issued by central banking cartels of the world, Fuego (XFG) may more accurately be defined as a form of hard money- for its fixed, limited supply of 8 Million **XF₲**. And unlike most PoW cryptocurrencies, Fuego is designed to functionally thrive within a disinflationary ecosystem; incentived thru transaction fee markets & lottery deposit block fees: [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
+All transactions in **XFG** are already  private by default, much like cash or paper money is- only better.
 
-Fuego's **Elder Council** is the group of Fuego Elder Node* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious expansion of the Fuego ecosystem (merchants, services, tools, etc)
+![image](https://raw.githubusercontent.com/usexfg/fuego-data/master/images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif)
+
+*Unlike* traditional fiat currencies issued by central banking cartels of the world, **XF₲** can more accurately be defined as a form of hard money for its fixed, limited supply of 8 Million **XF₲**. And unlike most PoW cryptocurrencies, Fuego is designed to functionally thrive within a disinflationary ecosystem; incentived thru transaction fee markets & lottery deposit block fees: [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
+
+
+
+Fuego's **Elder Council** is the group of active Fuego Elder Node* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious expansion of the Fuego ecosystem (merchants, services, tools, etc)
 
 <sup>(*) Elder Nodes are service nodes which earn a percentage for each txn they relay on the Fuego network. For more info and a list of tutorials see or contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section !
 
