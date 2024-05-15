@@ -23,7 +23,7 @@ All transactions in **XFG** are already  private by default, much like cash or p
 
 
 
-Fuego's **Elder Council** is the group of active Fuego Elder Node* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious expansion of the Fuego ecosystem (merchants, services, tools, etc)
+Fuego's **Elder Council** is the group of active Fuego Elder Node* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious expansion of the **XFG** ecosystem (merchants, services, tools, etc)
 
 <sup>(*) Elder Nodes are service nodes which earn a percentage for each txn they relay on the Fuego network. For more info and a list of tutorials see or contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section !
 
