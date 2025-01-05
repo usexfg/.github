@@ -35,7 +35,7 @@ Fuego's **Elder Council** is a group of active Fuego users and Elder Node* opera
 <http://fuego.spaceportx.net/>     
 <https://explore-xfg.loudmining.com/>  
 <http://radioactive.sytes.net:8000/index.html/>  
-<http://3.16.217.33/>
+<http://47.76.184.4/>
 -   Pool Mining: <https://miningpoolstats.stream/fuego>
 -   Guides/Wiki:  <https://github.com/usexfg/guides>
 -   Discord: <https://discord.gg/5UJcJJg>
