@@ -9,7 +9,7 @@
 
 ## What is Fuego ?
 
-Fuego is a decentralized privacy banking network based on the CryptoNote protocol that enables users to securely store, transfer, & [collateralize](https://github.com/usexfg/cold-dao) monetary value- privately, using XFG.
+Fuego is a decentralized privacy banking network based on the CryptoNote protocol and enables users to securely store, transfer, & [collateralize](https://github.com/usexfg/cold-dao) monetary value- privately, using XFG.
 
 Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's **decentralized** design, Fuego network is owned by it's users; not by any singular entity nor evil corp_oration, and is available free to everyone as a public utility for privacy & financial freedom.
 
