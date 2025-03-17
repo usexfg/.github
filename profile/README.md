@@ -1,6 +1,6 @@
 # 🔥 Fuego Network
 
-### 🏴‍☠️ Decentralized Bank
+### 🏴‍☠️ Decentralized Privacy Banking
 ### 🛡 Secure Untraceable Payments 
 ### 🔏 Encrypted P2P Messaging
 ### ➕ Web3 Integration(s) Development
