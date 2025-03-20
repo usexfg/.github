@@ -1,6 +1,6 @@
 # 🔥 Fuego Network
 
-### 🪙 Private Decentralized Savings
+### 🪙 Private Decentralized Savings Bank
 ### 🛡 Secure Untraceable Payments 
 ### 🔏 Encrypted P2P Messaging
 ### ➕ Web3 Integration(s) Development
