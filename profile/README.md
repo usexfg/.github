@@ -1,7 +1,7 @@
 # 🔥 Fuego Network
 
-### 🪙 PRIVATE De-Central BANKING 
-### 🛡 𝘚𝘦𝘤𝘶𝘳𝘦 𝘜𝘯𝘵𝘳𝘢𝘤𝘦𝘢𝘣𝘭𝘦 𝘗𝘢𝘺𝘮𝘦𝘯𝘵𝘴 
+### 🪙 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐃𝐞𝐜𝐞𝐧𝐭𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐒𝐚𝐯𝐢𝐧𝐠𝐬 𝐁𝐚𝐧𝐤
+### 🛡 𝑺𝒆𝒄𝒗𝒓𝒆 𝑼𝒏𝒕𝒓𝒂𝒄𝒆𝒂𝒃𝒍𝒆 𝑷𝒂𝒚𝒎𝒆𝒏𝒕𝒔
 ### 🔏 𝙀𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙋2𝙋 𝙈𝙚𝙨𝙨𝙖𝙜𝙞𝙣𝙜
 ### ➕ 𝓦eb℥ I𝔫𝔱𝔢𝔤𝔯𝔞𝔱𝔦𝔬𝔫❨$❩
 <h1 align="left"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/images/slickxfg.gif"><img/></h1> 
