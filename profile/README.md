@@ -12,11 +12,11 @@ Fuego is a decentralized privacy banking network based on the CryptoNote protoco
 
 Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's **decentralized** design, Fuego network is owned by it's users; not by any singular entity nor evil corp_oration, and is available online 24/7/365 to everyone of any race, gender, age, creed, or country of origin- free as a public tool for privacy & financial freedom.
 
-Unique features of Fuego network include untraceable p2p messaging (up to 300 characters per message) as well as, time-locked (3 month standard) on-chain deposits, also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-deposit proofs and automated interest redemption expected in 2024.)
+Unique features of Fuego network include untraceable p2p messaging (up to 300 characters per message) as well as, time-locked (3 month standard) on-chain deposits, also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-deposit proofs and automated interest redemption expected in 2025.)
 
 ## What is XF₲ ?
 
-**XF₲** (aka *Fire / Fuego* / ₲ /🔥) is a privacy cryptocurrency and accounting units used within the blockchain ledger of the Fuego network. XFG is minted into the network thru block rewards and distributes to miners in exchange for their computational processing power, which secures the Fuego network blockchain using an ASIC-resistant proof of work consensus, approximately every 8 minutes.
+**XF₲** (or *Fire* / *Fuego* / ₲ /🔥) is a privacy cryptocurrency and accounting units used within the blockchain ledger of the Fuego network. XFG is minted into the network thru block rewards and distributes to miners in exchange for their computational processing power, which secures the Fuego network blockchain using an ASIC-resistant proof of work consensus, approximately every 8 minutes.
 
 All transactions in **XFG** are already private by default, much like cash or paper money is- but without the *central banksters*.
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
