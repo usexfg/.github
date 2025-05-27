@@ -34,7 +34,7 @@ Fuego's **Elder Council** is a group of active Fuego users and Elder Node* opera
 
 -   Web: <https://usexfg.org>
 -   Block Explorers:  
-<http://fuego.spaceportx.net/>     
+<http://explorer.usexfg.org/>     
 <https://explore-xfg.loudmining.com/>  
 <http://radioactive.sytes.net:8000/index.html/>  
 <http://47.76.184.4/>
