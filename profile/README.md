@@ -25,7 +25,7 @@ All transactions in **XFG** are already private by default, much like cash or pa
 ***Unlike*** traditional fiat currencies issued by central banking cartels of the world, **XF₲** can more accurately be defined as a form of hard money for its fixed, limited supply of 8 Million **XF₲**. And unlike even most PoW cryptocurrencies, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru transaction fee markets & lottery-style block fees from deposits : [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
 
 
-Fuego's **Elder Council** is a group of active Fuego users and Elder Node* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious expansion of the **XFG** ecosystem (merchants, services, tools, etc)
+Fuego's **Elder Council** is a group of active & incredibly badass Fuego users and Elder Node* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious ecosystem expansion of **XF₲** (merchants, services, tools, etc)
 
 <sup>(*) Elder Nodes are service nodes which earn a percentage for each txn they relay on the Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
@@ -34,11 +34,11 @@ Fuego's **Elder Council** is a group of active Fuego users and Elder Node* opera
 ## Resources
 
 -   [Website](https://usexfg.org)
--   [Block Explorer(s)](http://explorer.usexfg.org), [🜂](https://explore-xfg.loudmining.com),[🜂](http://radioactive.sytes.net:8000/index.html), [🜂](http://47.76.184.4)
+-   [Block Explorer(s)](http://explorer.usexfg.org), [🜂](https://explore-xfg.loudmining.com), [🜂](http://radioactive.sytes.net:8000/index.html), [🜂](http://47.76.184.4)
 -   [Pool Mining](https://miningpoolstats.stream/fuego)
 -   [Guides/Wiki](https://github.com/usexfg/guides)
 -   [Discord](https://discord.gg/5UJcJJg)
 -   [Twitter](https://twitter.com/useXFG)
 -   [Medium](https://medium.com/@usexfg)
--   [Bitcointalk](https://bitcointalk.org/index.php?topic=2712001)
+-   [Bitcointalk Ann](https://bitcointalk.org/index.php?topic=2712001)
                                       
