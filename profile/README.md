@@ -39,6 +39,6 @@ Fuego's **Elder Council** is a group of active Fuego users and Elder Node* opera
 -   [Guides/Wiki](https://github.com/usexfg/guides)
 -   [Discord](https://discord.gg/5UJcJJg)
 -   [Twitter](https://twitter.com/useXFG)
--   [Medium?](https://medium.com/@usexfg)
+-   [Medium](https://medium.com/@usexfg)
 -   [Bitcointalk](https://bitcointalk.org/index.php?topic=2712001)
                                       
