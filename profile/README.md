@@ -33,16 +33,12 @@ Fuego's **Elder Council** is a group of active Fuego users and Elder Node* opera
 
 ## Resources
 
--   Web: <https://usexfg.org>
--   Block Explorers:  
-<http://explorer.usexfg.org/>     
-<https://explore-xfg.loudmining.com/>  
-<http://radioactive.sytes.net:8000/index.html/>  
-<http://47.76.184.4/>
--   Pool Mining: <https://miningpoolstats.stream/fuego>
--   Guides/Wiki:  <https://github.com/usexfg/guides>
--   Discord: <https://discord.gg/5UJcJJg>
--   Twitter: <https://twitter.com/useXFG>
--   Medium: <https://medium.com/@usexfg>
--   Bitcoin Talk: <https://bitcointalk.org/index.php?topic=2712001>
+-   [Website](https://usexfg.org)
+-   [Block Explorer(s)](http://explorer.usexfg.org), [🜂](https://explore-xfg.loudmining.com),[🜂](http://radioactive.sytes.net:8000/index.html), [🜂](http://47.76.184.4)
+-   [Pool Mining](https://miningpoolstats.stream/fuego)
+-   [Guides/Wiki](https://github.com/usexfg/guides)
+-   [Discord](https://discord.gg/5UJcJJg)
+-   [Twitter](https://twitter.com/useXFG)
+-   [Medium?](https://medium.com/@usexfg)
+-   [Bitcointalk](https://bitcointalk.org/index.php?topic=2712001)
                                       
