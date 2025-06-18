@@ -34,7 +34,7 @@ Fuego's **Elder Council** is a group of active & incredibly badass Fuego users a
 ## Resources
 
 -   [Website](https://usexfg.org)
--   [Block Explorer(s)](http://explorer.usexfg.org), [🜂](https://explore-xfg.loudmining.com), [🜂](http://radioactive.sytes.net:8000/index.html), [🜂](http://47.76.184.4)
+-   [Block Explorer(s)](http://explorer.usexfg.org), [🜂](https://explore-xfg.loudmining.com), [🜂](http://radioactive.sytes.net:8000/index.html), [🜂](http://3.133.114.118/)
 -   [Pool Mining](https://miningpoolstats.stream/fuego)
 -   [Guides/Wiki](https://github.com/usexfg/guides)
 -   [Discord](https://discord.gg/5UJcJJg)
