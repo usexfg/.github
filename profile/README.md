@@ -17,7 +17,7 @@ Unique features of Fuego network include untraceable p2p messaging (up to 300 ch
 
 ## What is XF₲ ?
 
-**XF₲** (or *Fire* / *Fuego* / ₲ /🔥) is a privacy cryptocurrency and accounting units used within the blockchain ledger of the Fuego network. XFG is minted into the network thru block rewards and distributes to miners in exchange for their computational processing power, which secures the Fuego network blockchain using an ASIC-resistant proof of work consensus, approximately every 8 minutes.
+**XF₲** (or *Fire* / *Fuego* / ₲ /🔥) is a privacy cryptocurrency and accounting unit(s) used within the blockchain ledger of the Fuego network. XFG is minted into the network thru block rewards and distributes to miners in exchange for their computational processing power, which secures the Fuego network blockchain using an ASIC-resistant proof of work consensus, approximately every 8 minutes.
 
 All transactions in **XFG** are already private by default, much like cash or paper money is- but without the *central banksters*.
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
