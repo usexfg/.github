@@ -5,7 +5,7 @@
   ### 🔏 𝙴𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝚙2𝚙 𝙼𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐
   ### ➕ 𝚆𝚎𝚋3 𝙸𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗❨$❩
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/images/slickxfg.gif"><img/></h1> 
+<h1 align="left"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/slickxfg.gif"><img/></h1> 
 
 ## What is Fuego ?
 
@@ -20,7 +20,7 @@ Unique features of Fuego network include untraceable p2p messaging (up to 300 ch
 **XF₲** (or *Fire* / *Fuego* / ₲ /🔥) is a privacy cryptocurrency and accounting unit(s) used within the blockchain ledger of the Fuego network. XFG is minted into the network thru block rewards and distributes to miners in exchange for their computational processing power, which secures the Fuego network blockchain using an ASIC-resistant proof of work consensus, approximately every 8 minutes.
 
 All transactions in **XFG** are already private by default, much like cash or paper money is- but without the *central banksters*.
-<h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
 ***Unlike*** traditional fiat currencies issued by central banking cartels of the world, **XF₲** can more accurately be defined as a form of hard money for its fixed, limited supply of 8 Million **XF₲**. And unlike even most PoW cryptocurrencies, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru transaction fee markets & lottery-style block fees from deposits : [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
 
