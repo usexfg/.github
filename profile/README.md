@@ -11,13 +11,13 @@
 
 Fuego is a decentralized L1 privacy blockchain banking p2p network based on the CryptoNote protocol that enables users to securely store, transfer, & [collateralize](https://github.com/usexfg/cold-dao) monetary value- privately, using XFG.
 
-Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the old centralized banking model. Thru it's **decentralized** design, Fuego L1 network is owned by it's users; not by any singular entity nor evil corp_oration, and is available online 24/7/365 to anyone of any race, gender, age, creed, or country of origin- free as a public tool for privacy & financial freedom.
+Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the centralized banking model. Thru it's **decentralized** design, Fuego L1 network is owned by it's users; not by any singular entity nor evil corp_oration, and is available online 24/7/365 to anyone of any race, gender, age, creed, or country of origin- free as a public tool for privacy & financial freedom.
 
 Unique features of Fuego include untraceable p2p messaging (up to 300 characters per message) as well as, time-locked (3 month standard) on-chain deposits, also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-deposit proofs and automated interest redemption expected in 2025.)
 
 ## What is XF₲ ?
 
-**XF₲** (or ₲ /🔥) is the privacy cryptocurrency and accounting units (heat) used within Fuego L1 network blockchain ledger. XFG is minted into the Fuego network via block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. The smallest (atomic) accounting unit for each XFG is divisible up to 7 decimal places, and can be referenced as single atomic units called `heat` (0.0000001 = heat)
+**XF₲** (or ₲ /🔥) is a privacy cryptocurrency and the accounting units (heat) used within the Fuego L1 network blockchain ledger. XFG is minted into the Fuego network via block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- XFG can be referenced down to singular atomic units called `heat` (0.0000001 = 1 heat)
 
 All transactions in **XFG** are already private by default, much like cash & paper money is- but without *central banksters*. [insert brrr meme]
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
