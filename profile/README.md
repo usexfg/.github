@@ -5,7 +5,7 @@
   ### 🔏 𝙴𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝚙2𝚙 𝙼𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐
   ### ➕ 𝚆𝚎𝚋3 𝙸𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗❨$❩
 
-<h1 align="left"><img height="400" width="400" src="https://github.com/usexfg/fuego-data/blob/fd944f747298e14d4cbdfeec9157b715bfefb4f1/fuego-images/fuegonew.png"><img/></h1> 
+<h1 align="left"><img height="420" width="420" src="https://github.com/usexfg/fuego-data/blob/7793f0d3f8459821b8179d35d50b3566f4a80156/fuego-images/fuegold.png"><img/></h1> 
 
 ## What is Fuego ?
 
