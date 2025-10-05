@@ -9,7 +9,7 @@
 
 ## What is Fuego ?
 
-Fuego is a decentralized layer-1 privacy blockchain banking p2p network based on the CryptoNote protocol, that allows monetary value within the network to inherit sound money properties with modern private banking-grade benefits of secure savings storage, untraceable payments & transfers, zero knowledge-[collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to private high-yield interest offerings; all by using XF₲.
+Fuego is a decentralized layer-1 privacy blockchain banking p2p network based on the CryptoNote protocol, that allows monetary value within the network to inherit sound money properties with modern private banking-grade benefits of secure savings storage, untraceable payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with STARKs, & access to private high-yield interest options; all by using XF₲.
 
 Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the centralized banking model. Thru it's **decentralized** design, Fuego L1 network is owned by it's users; not by any singular entity nor evil corp_oration, and is freely available online 24/7/365 to anyone- worldwide, as a public tool for privacy & financial freedom.
 
@@ -19,7 +19,7 @@ Unique features of Fuego include untraceable p2p messaging (up to 300 characters
 
 **XF₲** (or ₲ /🔥) is a privacy cryptocurrency and the accounting units (heat) used within the Fuego L1 network blockchain ledger. XFG is minted into the Fuego network via block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- XFG can be referenced down to singular atomic units called `heat` (0.0000001 = 1 heat)
 
-All transactions in **XFG** are already private by default, much like cash & paper money is- but without *central banksters*. [insert brrr meme]
+All transactions in **XFG** are already private by default, much like cash & paper money is- but without the *central banksters*. [insert brrr meme]
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
 ***Unlike*** traditional fiat currencies issued by central banking cartels of the world, **XF₲** is more accurately defined as a form of hard money for its fixed, yet dynamic money supply of 8 Million **XF₲**. And unlike even most PoW cryptocurrencies, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru XFG transaction fees, C0DL3 gas fees, & lottery-style block fees from certificates of deposit transactions: [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
