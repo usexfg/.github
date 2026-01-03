@@ -1,4 +1,4 @@
-# 🔥 Fuego L1 Network
+# 🔥 Fuego Network
 
   ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊𝚌𝚢 𝙱𝚊𝚗𝚔𝚒𝚗𝚐
   ### 🛡 𝚂𝚎𝚌𝚞𝚛𝚎 𝚄𝚗𝚝𝚛𝚊𝚌𝚎𝚊𝚋𝚕𝚎 𝙿𝚊𝚢𝚖𝚎𝚗𝚝𝚜
@@ -9,15 +9,13 @@
 
 ## What is Fuego ?
 
-Fuego is a p2p decentralized layer-1 privacy blockchain banking network based on the CryptoNote protocol, that allows monetary value within the network to inherit sound money properties with modern private banking-grade benefits of secure savings storage, untraceable payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARK proofs, & access to private high-yield interest options; all by using XF₲.
+Fuego is a p2p decentralized layer-1 privacy blockchain banking network based on the CryptoNote protocol, that enables value within the network to inherit sound money properties, and benefits of modern privacy banking like secure storage of savings, unstoppable peer-to-peer payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to high-tier interest offers on XFG deposit yield.  Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the centralized banking model. Thru it's **decentralized** design, the Fuego L1 network is owned by no 'one' person- no singular entity, no corrupt government, nor evil corp_oration- but by it's users. Fuego is freely available online 24/7/365 to anyone- worldwide, as a public tool for privacy & financial freedom.
 
-Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to the centralized banking model. Thru it's **decentralized** design, Fuego L1 network is owned by it's users; not by any singular entity nor evil corp_oration, and is freely available online 24/7/365 to anyone- worldwide, as a public tool for privacy & financial freedom.
-
-Unique features of Fuego include untraceable p2p messaging (up to 300 characters per message) as well as, time-locked (3 month standard) on-chain deposits, also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-deposit proofs and automated interest redemption expected in 2025.)
+Unique features of Fuego include ultra-secure p2p wallet messaging as well as, time-locked (3 month standard) on-chain deposits, also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-deposit proofs and automated interest redemption expected in 2025.)
 
 ## What is XF₲ ?
 
-**XFG** (or ₲ /🔥) is a privacy cryptocurrency and the accounting units (heat) used within the Fuego L1 network blockchain ledger. XFG is minted into the Fuego network via block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- XFG can be referenced down to singular atomic units called `ħeat`
+**XFG** (or ₲ /🔥) is a privacy cryptocurrency and accounting units (ħeat) used within Fuego network's blockchain ledger. XFG is minted into existance by block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- XFG can be referenced down to singular atomic units called `ħeat`
 
 <h2><sup>(₲0.0000001 = 1 ħeat)</sup></h2>
 
@@ -27,7 +25,7 @@ All transactions in **XFG** are already private by default, much like cash & pap
 ***Unlike*** traditional fiat currencies issued by central banking cartels of the world, **XF₲** is more accurately defined as a form of hard money for its fixed, yet dynamic money supply of 8 Million **XF₲**. And unlike even most PoW cryptocurrencies, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru XFG transaction fees, C0DL3 gas fees, & lottery-style block fees from certificates of deposit transactions: [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
 
 
-Fuego's **Ξlderfire Privacy Council** is a group of active & incredibly badass Fuego users and Eldernode* operators contributing to the furtherment of Fuego’s open-source network code development, and/or glorious ecosystem expansion of **XF₲** (merchants, services, tools, etc)
+Fuego's **Ξlder Council** is a group of active (& incredibly badass) Fuego users and/or Eldernode* operators contributing to the development of USEXFG's open-source code repositories, and/or expansion of the **XF₲** ecosystem (merchants, services, tools, etc)
 
 <sup>(*) Eldernodes are service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
