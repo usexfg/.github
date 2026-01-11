@@ -19,17 +19,17 @@ Unique features of Fuego include ultra-secure p2p wallet messaging as well as, t
 
 <h2><sup>(₲0.0000001 = 1 ħeat)</sup></h2>
 
-All transactions in **XFG** are already private by default, much like cash & paper money is- but without the *central banksters*. [insert brrr meme]
+Any transactions made in **XFG** are private by default, much like cash money is- but without the corruption of *central banksters*. [insert brrr meme]
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
 ***Unlike*** traditional fiat currencies issued by central banking cartels of the world, **XF₲** is more accurately defined as a form of hard money for its fixed, yet dynamic money supply of 8 Million **XF₲**. And unlike even most PoW cryptocurrencies, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru XFG transaction fees, C0DL3 gas fees, & lottery-style block fees from certificates of deposit transactions: [COLD](https://github.com/usexfg/cold-dao) fees being a % rate of each XFG deposit amount (determined, along with interest rates, by [DAO](https://github.com/usexfg/cold-dao)- and) paid to miners. 
 
 
-Fuego's **Ξlder Council** is a group of active & incredibly badass Fuego users and/or Eldernode* operators contributing to the development of USEXFG's open-source code repositories, and/or expansion of the **XF₲** ecosystem (merchants, services, tools, etc)
+Fuego's **Ξlder Council** is one group of active & incredibly badass Fuego users and/or Elderfier* operators contributing to the development of USEXFG's open-source code repositories, and/or expansion of the **XF₲** ecosystem (merchants, services, tools, etc)
 
-<sup>(*) Eldernodes are service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
+<sup>(*) Elderfiers are service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
-<sup> Fuego exists only because of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One **could** even escape the clutches of tyranny (were conditions as such) simply by routinely choosing to accept payment in PRIVATE (decentralized) cryptocurrencies for any PEER-based commerce already happening throughout the normal, everyday human to human interactions in life . *In hoc signo vinces*</sup></sup>
+<sup> Fuego exists only because of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One **could** even escape the clutches of tyranny (were conditions as such) by choosing the routine action of simply accepting payment in decentralized privacy currencies for PEER-based transactions already happening throughout our normal human interactions in everyday life. *In hoc signo vinces*</sup></sup>
 
 ## Resources
 
