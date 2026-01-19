@@ -1,5 +1,6 @@
 # 🔥 Fuego P2P Network
-## This Machine Mints Freedom Thru :
+## This Machine Mints Freedom
+using:
   ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊𝚌𝚢 𝙱𝚊𝚗𝚔𝚒𝚗𝚐
   ### 🛡 𝚂𝚎𝚌𝚞𝚛𝚎 𝚄𝚗𝚝𝚛𝚊𝚌𝚎𝚊𝚋𝚕𝚎 𝙿𝚊𝚢𝚖𝚎𝚗𝚝𝚜 
   ### 🔏 𝙴𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝚙2𝚙 𝙼𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐
