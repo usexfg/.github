@@ -1,7 +1,7 @@
 # 🔥 Fuego P2P Network
 ## This Machine Mints Freedom
 using:
-  ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊𝚌𝚢 𝙱𝚊𝚗𝚔𝚒𝚗𝚐
+  ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊cy 𝙱𝚊𝚗𝚔𝚒𝚗𝚐
   ### 🛡 𝚂𝚎𝚌𝚞𝚛𝚎 𝚄𝚗𝚝𝚛𝚊𝚌𝚎𝚊𝚋𝚕𝚎 𝙿𝚊𝚢𝚖𝚎𝚗𝚝𝚜 
   ### 🔏 𝙴𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝙿2𝙿 𝙼𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐
   ### 🔐 <sub><sup>ZK</sup></sub>𝚂𝚃𝙰𝚁𝙺 𝙿𝚛𝚘𝚘𝚏𝚜 + 𝚆𝚎𝚋3
@@ -10,7 +10,7 @@ using:
 
 ## What is Fuego ?
 
-Fuego is a layer-1 decentralized privacy blockchain banking p2p network based on the CryptoNote protocol, that enables value within the network to inherit sound money properties, and benefits of modern privacy banking like secure storage of savings, unstoppable peer-to-peer payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to high-tier interest offers on XFG deposit yield.  Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to centralized banking. Thru it's **decentralized** design, the Fuego p2p network is owned by no 'one' person- no singular entity, no corrupt government, nor evil corp_oration- but by all it's users thru distributed consensus. Fuego is freely available online 24/7/365 to anyone- worldwide, as a public tool for privacy & financial freedom.
+Fuego is a decentralized p2p privacy blockchain banking network based on the CryptoNote protocol, that enables value within its network to inherit sound money properties, benefits of modern privacy banking like secure storage of value, unstoppable peer-to-peer payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to high-tier interest offers on XFG deposit yield.  Built by advocates for freedom thru sound money, Fuego functions as a free & open source alternative to centralized banking. Thru it's **decentralized** design, the Fuego p2p network is owned by no 'one' person- no singular entity, no corrupt government, nor evil corp_oration- but by all it's users thru distributed consensus. Fuego is freely available online 24/7/365 to anyone- worldwide, as a public tool for privacy & financial freedom.
 
 Unique features of Fuego include ultra-secure p2p wallet messaging, as well as time-locked (3 months or 1 year terms) on-chain deposits, also known as  [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-deposit proofs and smart contract interest redemption expected early 2026.)
 
