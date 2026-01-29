@@ -18,7 +18,7 @@ Unique features of Fuego include ultra-secure p2p wallet messaging, as well as t
 
 ## What is XF₲ ?
 
-**XFG** (or ₲ /🔥) is a privacy cryptocurrency and accounting units (ħeat) used within Fuego network's blockchain ledger. XFG is minted into existance by block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- XFG can be referenced down to singular atomic units called `ħeat`
+**XFG** (or ₲ /🔥) is a private cryptocurrency and accounting unit (ħeat) used within Fuego network's blockchain ledger. XFG is minted into existance by block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- XFG can be referenced down to singular (atomic) units called `ħeat`
 
 <h2><sup>(₲0.0000001 = 1 ħeat)</sup></h2>
 
