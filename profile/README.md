@@ -1,4 +1,4 @@
-# 🔥 Fuego P2P Network
+# 🔥 Fuego <sub><sup> P2P </sup></sub>  Network
 ## This Machine Mints Freedom
 using:
   ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊cy 𝙱𝚊𝚗𝚔𝚒𝚗𝚐
