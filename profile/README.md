@@ -1,8 +1,8 @@
-# 🔥 Fuego Blockchain Network  
+# 🔥 Fuego Blockchain Bank  
 ## This Machine Mints Freedom
 using:
-  ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊𝚌𝚢 𝙱𝚊𝚗𝚔𝚒𝚗𝚐
-  ### 🛡 𝚂𝚎𝚌𝚞𝚛𝚎 𝚄𝚗𝚝𝚛𝚊𝚌𝚎𝚊𝚋𝚕𝚎 𝙿𝚊𝚢𝚖𝚎𝚗𝚝𝚜 
+  ### 🪙 𝙳𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚎𝚍 𝙿𝚛𝚒𝚟𝚊te Money
+  ### 🛡 𝚄𝚗𝚝𝚛𝚊𝚌𝚎𝚊𝚋𝚕𝚎 Transactions 
   ### 🔏 𝙴𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝙿2𝙿 𝙼𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐
   ### 🔐 <sub><sup>ZK</sup></sub>𝚂𝚃𝙰𝚁𝙺 𝙿𝚛𝚘𝚘𝚏𝚜 + 𝚆𝚎𝚋3
   
