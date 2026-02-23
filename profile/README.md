@@ -12,13 +12,13 @@ using:
 
 Fuego is a decentralized p2p privacy blockchain banking network based from the CryptoNote protocol, that enables value within its network to inherit sound money properties and the benefits of modern private banking like secure storage of value, untraceable peer-to-peer payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to high-tier defi interest on XFG deposit yield.
 
-Developed by advocates for freedom thru sound money, Fuego functions as a free & fully open-source blockchain bank to provide an alternative to ~tyranny~ centralized banking. Thru it's **decentralized** design, the Fuego p2p network is owned not by any 'one' person- nor singular entity, corrupt governments, or evil corp_orations- instead, Fuego is owned by it's users thru distributed consensus. Available online 24/7/365 free to anyone- worldwide, as a public tool for digital privacy, economic sovereignty, and financial freedom.
+Developed by advocates for freedom thru sound money, Fuego functions as a free & fully open-source blockchain bank providing an alternative to ~tyranny~ centralized banking. Through it's **decentralized** design, the Fuego p2p network is owned not by any 'one' person- nor singular entity, corrupt governments, or evil corp_orations- instead, Fuego is owned by it's users thru p2p distributed consensus. Available online 24/7/365 & freely accessible to anyone with an internet connection- worldwide; as a public tool for digital privacy, economic sovereignty, and financial freedom.
 
 Unique features of Fuego include ultra-secure p2p wallet messaging, as well as time-locked (3 months or 1 year terms) on-chain deposits, also known as [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-proofs and smart contract interest redemption expected early 2026. update: 2/26 live on TESTNET)
 
 ## What is XF₲ ?
 
-**XFG** (or ₲ /🔥) is a private cryptocurrency and accounting unit (ħeat) used within Fuego network's blockchain ledger. XFG is minted into existance by block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each XFG can be referenced down to singular (atomic) units called `ħeat`
+**XFG** (or ₲ /🔥) is anti-fragile privacy cryptocurrency and the accounting unit(s) (`ħeat`) used within Fuego network's blockchain ledger. XFG is minted into existance by block rewards and distributed to miners in exchange for computational processing power to secure the Fuego blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each XFG is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each XFG can be referenced down to singular (atomic) units called `ħeat`
 
 <h2><sup>(₲0.0000001 = 1 ħeat)</sup></h2>
 
