@@ -1,4 +1,4 @@
-# *🔥* ***Fuego***  *<sub><sup>Blockchain Bank</sup></sub>*
+# *🔥* ***Fuego***  <sub><sup>Blockchain Bank</sup></sub>
 ## This Machine Mints Freedom
 using:
   ### 🪙 Decentralized Private Money
