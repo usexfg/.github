@@ -32,7 +32,7 @@ Fuego ***Ælder Kings Council*** is a group of active & incredibly badass Fuego 
 
 <sup>(*) Eldernodes are basic service nodes which earn a percentage for each txn they relay on Fuego network. Eventually ***Ξlderfiers*** (staked nodes) will also provide these relay operations, in addition to verifying merkle roots for cross-chain communication. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
-<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One **could** even escape the clutches of tyranny (were conditions as such) by choosing the routine action of simply accepting payment in decentralized privacy currencies for PEER-based transactions already happening throughout our normal human interactions in everyday life. *In hoc signo vinces*</sup></sup>
+<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One **could** even escape the clutches of tyranny (were conditions as such) by choosing the routine action of simply accepting payment in decentralized privacy currencies for PEER-based transactions already happening throughout the human interactions of our normal, everyday life. *In hoc signo vinces*</sup></sup>
 
 ## Resources
 
