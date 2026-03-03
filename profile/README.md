@@ -1,5 +1,5 @@
-# **Fuego** 🜂<sub><sup>   BLOCKCHAIN PRIVACY BANK</sup></sub>
-## This Machine Mints Freedom
+# **Fuego** 🜂<sub><sup> PRIVACY  BLOCKCHAIN  BANK<sub><sup>
+## <sub><sup>This Machine Mints Freedom<sub><sup>
 using:
   ### 🪙 Decentralized Peer-to-Peer Money
   ### 🛡  Untraceable Transactions
