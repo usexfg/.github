@@ -1,8 +1,8 @@
-# ***Fuego***  🔥<sub><sup> PRIVACY  BLOCKCHAIN  BANK</sup></sub>
+# **Fuego** 🜂<sub><sup>   BLOCKCHAIN PRIVACY BANK</sup></sub>
 ## This Machine Mints Freedom
 using:
   ### 🪙 Decentralized Peer-to-Peer Money
-  ### 🛡 Untraceable Transactions
+  ### 🛡  Untraceable Transactions
   ### 🔏 Encrypted Messaging
   ### 🔐 <sub><sup>ZK</sup></sub>STARK Proofs
   
