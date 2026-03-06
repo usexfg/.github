@@ -1,5 +1,5 @@
 # **Fuego** 🜂<sub><sup> PRIVACY  BLOCKCHAIN  BANK<sub><sup>
-## <sub><sup>This Machine Mints Freedom<sub><sup>
+## <sub><sup><code>This Machine Mints Freedom</code><sub><sup>
 using:
   ### 🪙 Decentralized Peer-to-Peer Money
   ### 🛡  Untraceable Transactions
@@ -8,13 +8,13 @@ using:
   
 <h1 align="left"><img height="420" width="420" src="https://github.com/usexfg/fuego-data/blob/ea973a2b059f9621e7669d935141a9c23422e7c0/fuego-images/image-download-4.png"><img/></h1> 
 
-## What is Fuego ?
+## What is Fueg☯ ?
 
 Fuego is a decentralized p2p privacy blockchain banking network based from the CryptoNote protocol, that enables value within its network to inherit sound money properties and the benefits of modern private banking services like secure storage of value, untraceable peer-to-peer payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to high-tier defi interest on XFG deposit yield.
 
-Developed by advocates for freedom thru sound money, Fuego functions as a free & fully open-source blockchain bank providing an alternative to ~tyranny~ centralized banking. Through it's **decentralized** design, the Fuego p2p network is owned not by any 'one' person- nor singular entity, corrupt governments, or evil corp_orations- instead, Fuego is owned by it's users thru p2p distributed consensus. Available online 24/7/365 & freely accessible to anyone with an internet connection- worldwide; as a public tool for digital privacy, economic sovereignty, and financial freedom.
+Developed by advocates for freedom thru sound money, Fuego functions as a free & fully open-source blockchain bank providing an alternative to ~*tyranny~ centralized banking. Through it's **decentralized** design, the Fuego p2p network is owned not by any 'one' person- nor singular entity, corrupt governments, or evil corp_orations- instead, Fuego is owned by it's users thru p2p distributed consensus. Available online 24/7/365 & freely accessible to anyone with an internet connection- worldwide; as a public tool for digital privacy, economic sovereignty, and financial freedom.
 
-Unique features of Fuego include ultra-secure p2p wallet messaging, as well as time-locked (3 months or 1 year terms) on-chain deposits, also known as [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificate **O**f **L**edger **D**eposit yield. (alpha version available, with zk-proofs and smart contract interest redemption expected early 2026. update: 2/26 live on TESTNET)
+Unique features of Fuego include ultra-secure p2p wallet messaging, as well as time-locked (3 months or 1 year terms) on-chain deposits, also known as [COLD](https://github.com/usexfg/cold-dao): an initiative to earn (defi) interest on $XFG **C**ertificates **☯**f **L**edger **D**eposit yield. (alpha version available, with zk-proofs and smart contract interest redemption expected early 2026. update: 2/26 live on TESTNET)
 
 ## What is XF₲ ?
 
@@ -22,10 +22,10 @@ Unique features of Fuego include ultra-secure p2p wallet messaging, as well as t
 
 <h2><sup>(₲0.0000001 = 1 ħeat)</sup></h2>
 
-Any transaction made in **XFG** is private by default, much like cash money is- but Fuego network adds transaction mixing with dynamic ring signatures (8 to 18) for maximum possible sender/receiver obfuscation, while keeping only amounts transparent- and all without *central banksters*. [insert brrr meme]
+Any transaction made with **XFG** is private by-default, much like cash money can be in comparison to the tracking-by-default of electronic money transactions, such as debit & credit cards- but Fuego Network adds dynamic transaction mixing with decoy ring signatures (from 8 to 18) for maximum possible sender/receiver obfuscation. COLD Banking deposits & withdrawals have full amount privacy using '1-out-of-many' (1of4) range proofs commitment proving amount was 1 of the 4 Banking amount tiers without revealing which, PLUS- all Banking txns (COLD / HEAT / Elderfier Staking) will now use its own commitmentI/O key image decoy pool for ring signature set with any COLD, HEAT, or Elderfier stake deposit AND withdrawal transactions- and p2p network txns still use amount transparency, for the moment.. and all without the corruption of *central banksters*. [insert brrr meme]
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
-***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XF₲** is most accurately defined as a form of **hard** money for its fixed- yet dynamic, money supply of 8 Million 8 **XF₲**. And unlike even most PoW cryptocurrencies of today, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru XFG transaction fees, reborn coinbase rewards from burns, & banking fees from certificates of deposit [COLD](https://github.com/usexfg/cold-dao) transactions (0.1% rate fee on each XFG deposit amount- interest rates determined by [C0LDAO](https://github.com/usexfg/cold-dao)) all paid to miners and Elderfiers. . Eventually, Ælder Kings Council (see below) will handle Fuego side of voting decisions regarding COLD & XFG burn (banking) fees.
+***Unlike*** traditional fiat currencies issued by these central banking cartels of our world, **XF₲** can more accurately be defined as a form of **hard** money for its fixed- yet dynamic, money supply of 8 Million 8 **XF₲**. And unlike even most PoW cryptocurrencies of our day, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru XFG transaction fees, reborn coinbase rewards from burns, & banking fees from certificates of deposit [COLD](https://github.com/usexfg/cold-dao) transactions (0.1% rate fee on each XFG deposit amount- interest rates determined by [C0LDAO](https://github.com/usexfg/cold-dao)) all paid to miners and Elderfiers. . Eventually, Ælder Kings Council (see below) will handle Fuego side of voting decisions regarding COLD & XFG burn (banking) fees.
 
 
 Fuego ***Ælder Kings Council*** is a group of active & incredibly badass Fuego Ξlderfier* operators contributing to the further development of USEXFG's open-source code repositories and expansion of the **XF₲** ecosystem (merchants, services, tools, etc) by running stable service nodes which periodically attest to the veracity of Fuego blockchain merkle roots, that enable trustless cross-chain communication with Fuego's L3 privacy rollup (`zkC0DL3`) as well as, other platforms &/or broader crypto ecosystem.  As a result, zkC0DL3 gas fees (HEAT) are exclusively reserved for, and equally distributed (with privacy) to, participating Ξlderfiers. However, before zkC0DL3 rollup launches, Ξlderfiers will earn all Fuego banking fees of 0.1% on each burn or COLD transaction amount- *after* zkC0DL3 launches, banking fees *may* return to Fuego miners as gas fees from all L3 activity are earned by Ξlderfiers & Ξlderados (`zkC0DL3` validators), exclusively. <sup>(* Requires a valid stake of **4000** XFG for on-chain Ξlderfier registration.)</sup>
