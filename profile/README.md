@@ -1,4 +1,4 @@
-# **Fuego** 🜂<sub><sup> PRIVACY  BLOCKCHAIN  BANK<sub><sup>
+# **Fuego** 🜂
 ## <sub><sup><code>This Machine Mints Freedom</code><sub><sup>
 using:
   ### 🪙 Decentralized Peer-to-Peer Money
@@ -8,7 +8,7 @@ using:
   
 <h1 align="left"><img height="420" width="420" src="https://github.com/usexfg/fuego-data/blob/ea973a2b059f9621e7669d935141a9c23422e7c0/fuego-images/image-download-4.png"><img/></h1> 
 
-## What is Fueg☯ ?
+## What is Fuego ?
 
 Fuego is a decentralized p2p privacy blockchain banking network based from the CryptoNote protocol, that enables value within its network to inherit sound money properties and the benefits of modern private banking services like secure storage of value, untraceable peer-to-peer payments & transfers, zero-knowledge [collateralization](https://github.com/usexfg/cold-dao) with zkSTARKs, & access to high-tier defi interest on XFG deposit yield.
 
