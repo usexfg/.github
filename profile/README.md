@@ -1,5 +1,6 @@
-# **Fuego** 🜂
-## <sub><sup><code>This Machine Mints Freedom</code><sub><sup>
+# 
+# **Fuego Blockchain Network** 
+## 🜂 <sub><sup><code>This Machine Mints Freedom</code><sub><sup>
 using:
   ### 🪙 Decentralized Peer-to-Peer Money
   ### 🛡  Untraceable Transactions
@@ -28,7 +29,7 @@ Any transaction made with **XFG** is private by-default, much like cash money ca
 ***Unlike*** traditional fiat currencies issued by these central banking cartels of our world, **XF₲** can more accurately be defined as a form of **hard** money for its fixed- yet dynamic, money supply of 8 Million 8 **XF₲**. And unlike even most PoW cryptocurrencies of our day, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru XFG transaction fees, reborn coinbase rewards from burns, & banking fees from certificates of deposit [COLD](https://github.com/usexfg/cold-dao) transactions (0.1% rate fee on each XFG deposit amount- interest rates determined by [C0LDAO](https://github.com/usexfg/cold-dao)) all paid to miners and Elderfiers. . Eventually, Ælder Kings Council (see below) will handle Fuego side of voting decisions regarding COLD & XFG burn (banking) fees.
 
 
-Fuego ***Ælder Kings Council*** is a group of active & incredibly badass Fuego Ξlderfier* operators contributing to the further development of USEXFG's open-source code repositories and expansion of the **XF₲** ecosystem (merchants, services, tools, etc) by running stable service nodes which periodically attest to the veracity of Fuego blockchain merkle roots, that enable trustless cross-chain communication with Fuego's L3 privacy rollup (`zkC0DL3`) as well as, other platforms &/or broader crypto ecosystem.  As a result, zkC0DL3 gas fees (HEAT) are exclusively reserved for, and equally distributed (with privacy) to, participating Ξlderfiers. However, before zkC0DL3 rollup launches, Ξlderfiers will earn all Fuego banking fees of 0.1% on each burn or COLD transaction amount- *after* zkC0DL3 launches, banking fees *may* return to Fuego miners as gas fees from all L3 activity are earned by Ξlderfiers & Ξlderados (`zkC0DL3` validators), exclusively. <sup>(* Requires a valid stake of **4000** XFG for on-chain Ξlderfier registration.)</sup>
+The XFG ***Ælder Kings Council*** is an on-chain group of active & incredibly badass Fuego Ξlderfier* operators running stable service nodes which periodically attest to the veracity of Fuego blockchain commitment merkle roots, thereby enabling **trustless cross-chain communication** with Fuego's L3 privacy rollup (`zkC0DL3`) as well as, other platforms &/or broader crypto ecosystem.  As a result, Ξlderfiers earn all Fuego banking fees of 0.1% on each burn or COLD transaction amount. <sup>(* Requires a valid stake of **4000** XFG for on-chain Ξlderfier registration.)</sup>
 
 <sup>(*) Eldernodes are basic service nodes which earn a percentage for each txn they relay on Fuego network. Eventually ***Ξlderfiers*** (staked nodes) will also provide these relay operations, in addition to verifying merkle roots for cross-chain communication. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
