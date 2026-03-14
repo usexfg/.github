@@ -1,5 +1,5 @@
 # 
-# **Fuego Blockchain Network** 
+# **Fuego Blockchain Bank** 
 ## 🜂 <sub><sup><code>This Machine Mints Freedom</code><sub><sup>
 using:
   ### 🪙 Decentralized Peer-to-Peer Money
