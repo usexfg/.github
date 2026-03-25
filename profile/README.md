@@ -2,8 +2,8 @@
 # **Fuego Bank of Sound Money** 
 ## 🜂 <sup><code>This Machine Mints Freedom</code><sub>
 using:
-  ### 🪙 Decentralized Peer-to-Peer Money
-  ### 🛡  Untraceable Transactions
+  ### 🌐 Decentralized Peer-to-Peer Network
+  ### 🛡️  Untraceable Transactions
   ### 🔏 Encrypted Messaging
   ### 🔐 <sub><sup>ZK</sup></sub>STARK Proofs
   
