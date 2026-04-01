@@ -1,6 +1,6 @@
 # 
 # **Fuego Bank of Sound Money** 
-## 🜂 <sup><code>`This Machine Mints Freedom`</code><sub>
+## 🜂 <sub><sup><code>`This Machine Mints Freedom`</code></sup></sub>
 using:
   ### 🌐 Decentralized P2P Network
   ### 🛡️ Untraceable Transactions
@@ -23,15 +23,14 @@ Unique features of Fuego include ultra-secure p2p wallet messaging, as well as r
 
 <h2><sup>(₲0.0000001 = 1 ℏeat)</sup></h2>
 
-Any transaction made with **XFG** is private by-default, much like cash money can be in comparison to the tracking-by-default of electronic money transactions, such as debit & credit cards- but Fuego Network adds dynamic transaction mixing with decoy ring signatures (min 8 up to 18) for maximum possible sender/receiver obfuscation, PLUS- all Banking txns now use a commitmentI/O key image decoy pool for ring signature sets from any COLD, HEAT, or Ξlderfier stake deposit AND withdrawal transactions. At the moment, all network txns still use amount transparency temporarily for user confidence in supply verification (relative to new `burn` & `cold` features) and all this without the ~~corruption~~ involvement of any *central banksters*. [insert brrr meme]
+Any transaction made with **XFG** is private by-default, much like cash money can be in comparison to the tracking-by-default of electronic money transactions, such as debit & credit cards- but Fuego Network adds dynamic transaction mixing with decoy ring signatures (min 8 up to 18) for maximum possible sender/receiver obfuscation, PLUS- all Banking txns now use a commitmentI/O key image decoy pool for ring signature sets from all Fuego deposits AND withdrawals. All network transactions (atm) use amount transparency for user confidence in network supply verification relative to new features, like `burn` & `fee pool`. 
+
+And yet, somehow- this is all _amazingly_ viable **WITHOUT** the ~~corruption~~ involvement of any government or *central banks* [insert brrr meme] and furthermore, is achieved **WITHIN** a worldwide community of peer-to-peer network nodes and 100% free & open source software.
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
-***Unlike*** traditional fiat currencies issued by these central banking cartels of our world, **XF₲** can more accurately be defined as a form of **hard** money for its fixed- yet dynamic, money supply of 8 Million 8 **XF₲**. And unlike even most PoW cryptocurrencies of our day, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru **XFG** transaction fees, reborn coinbase rewards from burns, & banking fees from certificates of deposit [COLD](https://github.com/usexfg/cold-dao) transactions (0.1% rate fier_fee on each **XFG** deposit amount- interest rates determined by [C0LDAO](https://github.com/usexfg/cold-dao)) all paid to miners and Ξlderfiers. . Eventually, Ælder Kings Council (see below) will handle Fuego side of voting decisions regarding COLD & **XFG** burn (banking) fees.
+***Unlike*** traditional fiat currencies issued by these central banking cartels of our world, **XF₲** can more accurately be defined as a form of **hard** money for its fixed- yet dynamic, money supply of 8 Million 8 **XF₲**. And unlike even most PoW cryptocurrencies of our day, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru **XFG** transaction fees, reborn coinbase rewards from burns, & banking fees from Fuego certificates of deposit.
 
-
-The *XFG* ***Ælder Kings Council*** is an on-chain group of active & incredibly badass Fuego Ξlderfier* operators running stable service nodes which periodically attest to the veracity of Fuego blockchain commitment merkle roots, thereby enabling **trustless cross-chain communication** with Fuego's L3 privacy rollup (`zkC0DL3`) as well as, other platforms &/or broader crypto ecosystem.  As a result, Ξlderfiers earn all Fuego banking fees of 0.1% on each burn or COLD transaction amount. <sup>(* Requires a valid stake of **4444** **XFG** for on-chain Ξlderfier registration.)</sup>
-
-<sup>(*) Eldernodes are basic service nodes which earn a percentage for each txn they relay on Fuego network. Eventually ***Ξlderfiers*** (staked nodes) will also provide these relay operations, in addition to verifying merkle roots for cross-chain communication. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
+<sup>(*) Eldernodes are basic service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
 <sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One could even escape the clutches of tyranny (**if** conditions were as such) *simply* by choosing the routine action of accepting payment(s) in the form decentralized privacy currencies for any peer-based transactions already occurring from normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
 
