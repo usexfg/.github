@@ -28,7 +28,7 @@ Any transaction made with **XFG** is private by-default, much like cash money ca
 And yet, somehow- this is all _amazingly_ viable **WITHOUT** the ~~corruption~~ involvement of any government or *central banks* [insert brrr meme] and furthermore, is achieved **WITHIN** a worldwide community of peer-to-peer network nodes and 100% free & open source software.
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
-***Unlike*** traditional fiat currencies issued by these central banking cartels of our world, **XF₲** can more accurately be defined as a form of **hard** money for its fixed- yet dynamic, money supply of 8 Million 8 **XF₲**. And unlike even most PoW cryptocurrencies of our day, Fuego is designed to **thrive** within a disinflationary ecosystem; incentived thru **XFG** transaction fees, reborn coinbase rewards from burns, & banking fees from Fuego certificates of deposit.
+***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XF₲** is- while technically a crypto-***currency***, more accurately defined as **sound** money for its fixed- yet dynamic, money supply of 8,000,008 **XF₲**. And unlike most PoW-based cryptocurrencies of today, Fuego is designed to **thrive** within the disinflationary ecosystem; incentived by **XFG** transaction fees, reborn coinbase rewards from burns, & banking fees from Fuego certificates of deposit.
 
 <sup>(*) Eldernodes are basic service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
