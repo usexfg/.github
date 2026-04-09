@@ -31,7 +31,7 @@ And yet, somehow- this is all _amazingly_ viable **WITHOUT** the ~~corruption~~ 
 
 <sup>(*) Eldernodes are basic service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
-<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One could even escape the clutches of tyranny (**if** conditions were as such) *simply* by choosing the routine action of accepting payment(s) in the form decentralized privacy currencies for any peer-based transactions already occurring from normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
+<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One could even escape the clutches of tyranny (**were** conditions as such) by *simply* choosing the routine action of accepting payment(s) in the form decentralized privacy currencies for any peer-based transactions already occurring from normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
 
 ## Resources
 
