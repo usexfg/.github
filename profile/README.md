@@ -16,7 +16,7 @@ Developed by advocates for freedom thru sound money, Fuego functions as a free &
 
 Unique features of Fuego include ultra-secure p2p wallet messaging, as well as rolling term-locked (up to 1 year) on-chain deposits, also known as COLD: an initiative to earn interest on XFG **C**ertificates **☯**f **L**edger **D**eposit yield. (alpha version available, with zk-proofs and smart contract interest redemption expected early 2026. update: 2/26 live on TESTNET)
 
-## What is XF₲ ?
+## What is 𝐗𝐅𝐆 ?
 
 **XFG** (or ₲ /🔥) is anti-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `ℏeat`
 
