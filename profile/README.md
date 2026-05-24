@@ -18,9 +18,9 @@ Unique features of Fuego include ultra-secure p2p wallet messaging, as well as r
 
 ## What is 𝐗𝐅𝐆 ?
 
-**XFG** (or ₲ /🔥) is anti-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `ℏeat`
+**XFG** (or ₲ /🔥) is anti-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `fire`
 
-<h2><sup>(₲0.0000001 = 1 ℏeat)</sup></h2>
+<h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
 Any transaction made in **XFG** is private by-default, much like cash money can be in comparison to the tracking-by-default of electronic money transactions, such as debit & credit cards- but Fuego Network adds dynamic transaction mixing with decoy ring signatures (min 8 up to 18) for maximum possible sender/receiver obfuscation, PLUS- all Banking txns now use a commitmentI/O key image decoy pool for ring signature sets from all Fuego deposits AND withdrawals. All network transactions (atm) use amount transparency for user confidence in network supply verification relative to new features, like `burn` & `fee pool`. 
 
