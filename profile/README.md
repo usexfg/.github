@@ -4,7 +4,7 @@
   ### 🌐 Decentralized Network
   ### 🛡️ Untraceable Transactions
   ### ⚛️ AFK Atomic P2P Swaps
-  ### 🔏 Certificates of Deposit
+  ### 🔏 Ledger Deposits & Exchange
   
 <h1 align="left"><img height="420" width="420" src="https://github.com/usexfg/fuego-data/blob/ea973a2b059f9621e7669d935141a9c23422e7c0/fuego-images/image-download-4.png"><img/></h1> 
 
