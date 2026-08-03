@@ -14,27 +14,29 @@ Fuego is a decentralized p2p privacy blockchain banking network based on the Cry
 
 Developed & maintained by advocates for freedom through sound money, Fuego functions as a fully sovereign privacy blockchain banking network to provide a free & open-source alternative to centralized legacy banking. Through its decentralized design, Fuego Bank is owned not by any 'one' person — nor singular entity, government, or evil corp_oration. Instead, Fuego is owned & operated by The People who make use of it- made possible by distributed consensus within Fuego's peer-to-peer blockchain network. Available online 24/7/365 & freely accessible to anyone with an internet connection — worldwide; as a public tool for digital privacy, economic sovereignty, and financial freedom.
 
-Unique features of Fuego include :
-
-- Hearth Exchange, a block-discrete on-chain CLOB/AMM hybrid with adaptive-spread liquidity bands that batch-clears at volume-weighted average price (VWAP) each block; 
-- HΞΔŦ, an XFG-colored flatcoin minted only by burning XFG at current mint ratio, determined by XFG price in ΗΞΔŦ (as TWAP) on Hearth Exchange. 
-- Certificates of Deposit, term-length ledger deposits made & paid in HΞΔŦ; earning variable % yield based on prior epoch's activity and paid from Treasury's CD yield pool.  Based on fees from network activity ( Hearth trading fees & SwapXFG atomic swap fees)
-- SwapXFG, an in-house multi-chain currency exchange via p2p atomic swaps with adaptor signatures + DLEQ for all Fuego swaps, which keep all atomic swap transactions identical to standard XFG transactions with default privacy.
-- Protocol-owned Treasury, not particularly unique in deFi but for UTXO chains without smart contracts- a bit unique. Not controlled by DAO or multisig of any kind- pure protocol. Tracks & manages all pooled fees plus collateral reserves and signs interest payments to withdrawing CD at the end of each epoch (~5 days) 
-
 ## What is 𝐗𝐅𝐆 ?
 
-**XFG** (or ₲) is **anti**-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `fire`
+**XFG** (or ₲/or🔥) is **anti**-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `fire`
 
 <h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
-Any transaction made in **XFG** is private by-default, much like cash money can be in comparison to the tracking-by-default of electronic money transactions, such as debit & credit cards- but Fuego Network adds dynamic transaction mixing with decoy ring signatures (min 8,16,32 max) for maximum sender/receiver obfuscation, PLUS- all HΞΔŦ, Hearth, & LP txns now use a commitmentI/O key image decoy pool for ring signature sets from all Fuego deposits AND withdrawals. All network transactions (atm) use amount transparency for user confidence in network supply verification relative to new features like burn, fee pool, liquidity pool, & protocol-owned Treasury operations managed on-chain.
+All transactions made on Fuego blockchain are private by-default, much like cash money can be in comparison to default data tracking of  debit &/or credit cards- but Fuego Banking Network adds transaction mixing with dynamic decoy ring signatures (min 8,16,32 max) for maximum sender/receiver obfuscation. 
+<h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
+Beginning after v1.11.0 (<i>HEATWAVE</i>) release- all HΞΔŦ, Hearth, & LP transactions now use their own commitment-based key image decoy pool for proper ring signature sets; even on deposits AND withdrawals. At the current version, all network transactions still use amount transparency for user confidence in & verification of network supply data; relating especially to new network features like burn, fee pools, liquidity pool, & protocol-owned Treasury operations.
 
+
+Unique features of Fuego include :
+
+- **Hearth Exchange**, a block-discrete on-chain CLOB/AMM hybrid with adaptive-spread liquidity bands that batch-clears at volume-weighted average price (VWAP) each block; 
+- **HΞΔŦ**, an XFG-colored flatcoin minted only by burning XFG at current mint ratio, determined by XFG price in ΗΞΔŦ (as TWAP) on Hearth Exchange. 
+- **Certificates of Deposit**, term-length ledger deposits made & paid in HΞΔŦ; earning variable % yield based on prior epoch's activity and paid from Treasury's CD yield pool.  Based on fees from network activity ( Hearth trading fees & SwapXFG atomic swap fees)
+- **SwapXFG** (or **DeXFG**) , an in-house multi-chain currency exchange via p2p atomic swaps with adaptor signatures + DLEQ for all Fuego swaps, which keep all atomic swap transactions identical to standard XFG transactions with default privacy.
+- **P**rotocol **O**wned **T**reasury, not particularly unique in deFi but for UTXO chains without smart contracts- a bit unique. Not controlled by DAO or multisig of any kind- pure protocol. Tracks & manages all pooled fees plus collateral reserves and signs interest payments to withdrawing CD at the end of each epoch (~5 days) 
 
 All network protocols function viably **WITHOUT** the ~~corruption~~ involvement of any governance, governments, or *central banks*- and furthermore is achieved **WITHIN** the 100% free & open-source software of Fuego Blockchain Bank, run by a worldwide community of peer-to-peer network nodes.
-<h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
-***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XFG** is more accurately defined as **sound** money for its fixed- yet dynamic, money supply of **₲**8,000,008. And unlike even most PoW cryptocurrencies today, Fuego was designed to **thrive** within a disinflationary ecosystem; incentivized by transaction fees and reborn coinbase rewards from burns- ensuring security & block rewards for future generations.
+
+***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XFG** is most accurately categorized as **sound** money for its privacy features, and its fixed- yet dynamic, money supply of **₲**8,000,008. And unlike even most PoW cryptocurrencies today, Fuego was designed to **thrive** within a disinflationary ecosystem; incentivized by transaction fees and reborn coinbase rewards from burns- ensuring security & block rewards for future generations.
 
 <sup>(*) Eldernodes are service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
