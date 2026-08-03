@@ -20,11 +20,11 @@ Unique features of Fuego include :
 - HΞΔŦ, an XFG-colored flatcoin minted only by burning XFG at current mint ratio, determined by XFG price in ΗΞΔŦ (as TWAP) on Hearth Exchange. 
 - Certificates of Deposit, term-length ledger deposits made & paid in HΞΔŦ; earning variable % yield based on prior epoch's activity and paid from Treasury's CD yield pool.  Based on fees from network activity ( Hearth trading fees & SwapXFG atomic swap fees)
 - SwapXFG, an in-house multi-chain currency exchange via p2p atomic swaps with adaptor signatures + DLEQ for all Fuego swaps, which keep all atomic swap transactions identical to standard XFG transactions with default privacy.
-- Protocol-owned Treasury, not particularly unique in deFi but for UTXO chains without smart contracts- a bit unique. Not controlled by DAO or multisig of any kind. Pure protocol. Tracks and manages burn collateral reserves and pays out interest to CD holders withdrawing at end of each epoch. 
+- Protocol-owned Treasury, not particularly unique in deFi but for UTXO chains without smart contracts- a bit unique. Not controlled by DAO or multisig of any kind- pure protocol. Tracks & manages all pooled fees plus collateral reserves and signs interest payments to withdrawing CD at the end of each epoch (~5 days) 
 
 ## What is 𝐗𝐅𝐆 ?
 
-**XFG** (or ₲) is **anti-**fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `fire`
+**XFG** (or ₲) is **anti**-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `fire`
 
 <h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
