@@ -1,29 +1,35 @@
 # 
-# **Fuego Blockchain Bank** 
+# **Fuego Reserve**
 ## 🜂 <sub><sup><code>`This Machine Mints Freedom`</code></sup></sub>
   ### 🌐 Decentralized Network
   ### 🛡️ Untraceable Transactions
-  ### ⚛️ AFK Atomic P2P Swaps
+  ### ⚛️ AFK Cross-chain Swaps
   ### 🔏 Ledger Deposits & Exchange
   
 <h1 align="left"><img height="420" width="420" src="https://github.com/usexfg/fuego-data/blob/ea973a2b059f9621e7669d935141a9c23422e7c0/fuego-images/image-download-4.png"><img/></h1> 
 
 ## What is Fuego ?
 
-Fuego is a decentralized p2p privacy blockchain banking network based on the CryptoNote protocol that enables value within its network ledger to inherit sound money properties of XFG, while offering beyond the benefits of modern banking to provide private wealth services like secure storage, untraceable peer-to-peer transfers,   preserve your purchasing power by minting/burning, swap on-chain by pool or trade via order-book, in-house cross-chain atomic swaps, and access to private yield & secondary market trading of Certificates of Deposit (CDs) earning real yield from protocol revenue.
+Fuego Reserve is *Le Maison de XFG*, The Sovereign House of Sound Money and Protector of Private Purchasing Power. Operating on a decentralized blockchain network built upon the CryptoNote protocol for transaction privacy and proof-of-work consensus, with a fixed supply of 8 million, it enables value within the network ledger to inherit the same properties as XFG, and provides the sound-money assurance that any features built thereupon, need in order to offer private wealth services such as secure value storage, untraceable conveyance, preservation of purchasing power, on-chain exchange by pool or limit order, private in-house cross-chain exchange with 30 other networks, and access to yield through Certificates of Deposit (CDs) earning real yield from protocol revenue.
+ 
+ 
+Developed & maintained by advocates for freedom through sound money, Fuego Reserve functions as a fully sovereign privacy blockchain banking network, freely providing an open-source alternative to the archaic tyranny also known as centralized banking. Through its decentralized design, Fuego Reserve is owned not by any “one” person, nor by any singular entity, government, or corporation.  Instead through co-operation and the use of distributed consensus, Fuego is owned by The People- The Fire Mob - by all those who make use of it.
 
-Developed & maintained by advocates for freedom through sound money, Fuego functions as a fully sovereign privacy blockchain banking network to provide a free & open-source alternative to legacy central banking. Through its decentralized design, Fuego Bank is owned not by any 'one' person — nor singular entity, government, or evil corp_oration. Instead, by using  distributed consensus, Fuego is owned by The People - The Fire Mob - by all those who make use of it. Fuego’s open-source peer-to-peer blockchain banking network is available online 24/7/365 & freely accessible to anyone worldwide with an internet connection —as a public tool for digital privacy, economic sovereignty, and financial freedom.
-
+Fuego’s open-source peer-to-peer blockchain network is available online 24/7/365 and is freely accessible to anyone in the world with an internet connection - as a public tool for digital privacy, economic sovereignty, and financial freedom.
 ## What is 𝐗𝐅𝐆 ?
 
-**XFG** (or ₲/or🔥) is **anti**-fragile privacy cryptocurrency and the accounting unit(s) used within Fuego network's blockchain ledger. **XFG** is minted into existance by block reward and distributed to miners in exchange for processing power to secure Fuego's blockchain using ASIC-resistant proof of work consensus, approximately every 8 minutes. Each **XFG** is divisible up to 7 decimal places, and just like USD *cents* or BTC *sats*- each **XFG** can be referenced down to singular (atomic) units called `fire`
-
+XFG (₲) is an anti-fragile privacy money and accounting unit used within Fuego’s blockchain ledger. XFG is minted into existence through block rewards and distributed to miners in exchange for the processing power they contribute to securing Fuego’s blockchain with ASIC-resistant proof-of-work consensus, approximately every 8 minutes. Each XFG is divisible to 7 decimal places. Just like USD cents or BTC sats, each XFG can be referenced down to its smallest unit, called fire.
 <h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
-All transactions made on Fuego blockchain are private by-default, much like cash money is when compared to default data tracking of debit/credit cards- but Fuego Banking Network adds transaction mixing with dynamic ring signature decoys (min 8,16,32 max) for maximum sender/receiver obfuscation. 
-<h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
-Beginning v1.11.0 (<i>HEATWAVE</i>) release- all HΞΔŦ, Hearth, LP, & CD related transactions now use their own commitment-based key image decoy pool for proper ring signature sets on both deposits & withdrawals. At the current version, all network transactions still use amount transparency for user confidence in & verification of network supply data; relating especially to new network features like burn, fee pools, liquidity pool, & protocol-owned Treasury operations.
+All XFG transactions are private by default, much like cash compared to the tracking-by-default nature of credit and debit cards. Fuego Reserve adds transaction obfuscation through dynamic ring signature decoy sets (minimum 8, 16, or 32, up to the maximum allowed by transaction size limits) for maximum sender and receiver privacy.
 
+<h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
+
+Beginning with the v1.11.0 (<i>HEATWAVE</i>) release, all HΞΔŦ, Hearth, LP, and CD transactions use a fresh commitment-based key image decoy pool. This ensures proper ring signature sets even on deposits and withdrawals, instead of leaking the depositor's keys to the public as the original CryptoNote deposit implementation does.
+
+At the current network version, all transactions still use amount transparency so users can verify network supply data for themselves. This is especially important for new network features such as burns, fee pools, liquidity pools, and protocol-owned Treasury operations. Sound monetary systems function so fundamentally differently from central bank quantitative easing models that the need for insurance against bank failures, or against customer funds disappearing from corporate vaults, is eliminated. Rather than wasting resources insuring against the failure of a broken monetary system or centralized control model, sound money provides assurance instead. Assurance that the monetary system remains fully solvent and supply figures stay verifiable.
+
+Once we stop associating money with the liabilities introduced by debt issuers or service provider insolvency, a great many things become possible. When people can trust that their money carries assurances of solvency, they no longer need to rely on faith. They can rely on the simple accounting of supply under the UTXO transaction model. 
 
 Unique features of Fuego include :
 
