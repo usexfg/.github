@@ -18,7 +18,7 @@ Developed & maintained by advocates for freedom through sound money, Fuego Reser
 Fuego’s open-source peer-to-peer blockchain network is available online 24/7/365 and is freely accessible to anyone in the world with an internet connection - as a public tool for digital privacy, economic sovereignty, and financial freedom.
 ## What is 𝐗𝐅𝐆 ?
 
-XFG (₲) is an anti-fragile privacy money and accounting unit used within Fuego’s blockchain ledger. XFG is minted into existence through block rewards and distributed to miners in exchange for the processing power they contribute to securing Fuego’s blockchain with ASIC-resistant proof-of-work consensus, approximately every 8 minutes. Each XFG is divisible to 7 decimal places. Just like USD cents or BTC sats, each XFG can be referenced down to its smallest unit, called fire.
+XFG (₲) is private anti-fragile money and the accounting unit used within Fuego Reserve’s blockchain ledger. XFG is minted into existence through block rewards and distributed to miners in exchange for the processing power they contribute to securing Fuego’s blockchain with ASIC-resistant proof-of-work consensus, approximately every 8 minutes. Each XFG is divisible to 7 decimal places. Just like USD cents or BTC sats, each XFG can be referenced down to its smallest unit, called fire.
 <h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
 All XFG transactions are private by default, much like cash compared to the tracking-by-default nature of credit and debit cards. Fuego Reserve adds transaction obfuscation through dynamic ring signature decoy sets (minimum 8, 16, or 32, up to the maximum allowed by transaction size limits) for maximum sender and receiver privacy.
