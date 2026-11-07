@@ -1,5 +1,5 @@
 # 
-# **Fuego Reserve**
+# *Maison de XFG*
 ## 🜂 <sub><sup><code>`This Machine Mints Freedom`</code></sup></sub>
   ### 🌐 Decentralized Network
   ### 🛡️ Untraceable Transactions
@@ -10,7 +10,7 @@
 
 ## What is Fuego ?
 
-Fuego Reserve is *Le Maison de XFG*, The Sovereign House of Sound Money and Protector of Private Purchasing Power. Operating on a decentralized blockchain network built upon the CryptoNote protocol for transaction privacy and proof-of-work consensus, with a fixed supply of 8 million, it enables value within the network ledger to inherit the same properties as XFG, and provides the sound-money assurance that any features built thereupon, need in order to offer private wealth services such as secure value storage, untraceable conveyance, preservation of purchasing power, on-chain exchange by pool or limit order, private in-house cross-chain exchange with 30 other networks, and access to yield through Certificates of Deposit (CDs) earning real yield from protocol revenue.
+Fuego Reserve is *Le Maison de XFG*, The Sovereign House of Sound Money - Protector of Private Purchasing Power. Operating on a decentralized blockchain network built upon the CryptoNote protocol for transaction privacy and proof-of-work consensus, with a fixed supply of 8 million, it enables value within the network ledger to inherit the same properties as XFG, and provides the sound-money assurance that any features built thereupon, need in order to offer private wealth services such as secure value storage, untraceable conveyance, preservation of purchasing power, on-chain exchange by pool or limit order, private in-house cross-chain exchange with 30 other networks, and access to yield through Certificates of Deposit (CDs) earning real yield from protocol revenue.
  
  
 Developed & maintained by advocates for freedom through sound money, Fuego Reserve functions as a fully sovereign privacy blockchain banking network, freely providing an open-source alternative to the archaic tyranny also known as centralized banking. Through its decentralized design, Fuego Reserve is owned not by any “one” person, nor by any singular entity, government, or corporation.  Instead through co-operation and the use of distributed consensus, Fuego is owned by The People- The Fire Mob - by all those who make use of it.
@@ -27,9 +27,9 @@ All XFG transactions are private by default, much like cash compared to the trac
 
 Beginning with the v1.11.0 (<i>HEATWAVE</i>) release, all HΞΔŦ, Hearth, LP, and CD transactions use a fresh commitment-based key image decoy pool. This ensures proper ring signature sets even on deposits and withdrawals, instead of leaking the depositor's keys to the public as the original CryptoNote deposit implementation does.
 
-At the current network version, all transactions still use amount transparency so users can verify network supply data for themselves. This is especially important for new network features such as burns, fee pools, liquidity pools, and protocol-owned Treasury operations. Sound monetary systems function so fundamentally differently from central bank quantitative easing models that the need for insurance against bank failures, or against customer funds disappearing from corporate vaults, is eliminated. Rather than wasting resources insuring against the failure of a broken monetary system or centralized control model, sound money provides assurance instead. Assurance that the monetary system remains fully solvent and supply figures stay verifiable.
+At the current network version, all transactions still use amount transparency so users can verify network supply data for themselves. This is especially important for new network features such as burns, fee pools, liquidity pools, and protocol-owned Treasury operations. Sound monetary systems function so fundamentally differently from central bank quantitative easing models that the need for insurance against bank failures, or against customer funds disappearing from corporate vaults, is eliminated. Rather than wasting resources insuring against the failure of a broken monetary system or centralized control model, sound money need only provide assurance. Assurance that the monetary system remains fully solvent and supply figures stay verifiable.
 
-Once we stop associating money with the liabilities introduced by debt issuers or service provider insolvency, a great many things become possible. When people can trust that their money carries assurances of solvency, they no longer need to rely on faith. They can rely on the simple accounting of supply under the UTXO transaction model. 
+Once we stop associating money with the liabilities introduced by debt issuers or service provider insolvency, a great many things become possible. When people can trust that their money carries assurances of solvency, they no longer need to faith-backed money. They can rely on the simple accounting and mathematics, and save their faith for religion or spirituality. Who knows what all is possible. "Fix the money, fix the world."
 
 Unique features of Fuego include :
 
@@ -37,7 +37,7 @@ Unique features of Fuego include :
 - **HΞΔŦ**, an XFG-colored flatcoin pegged to purchasing power by tracking the US dollar’s rate of inflation since Q1|2009 to current. Minted only by burning XFG at a rate equivalent to current market value of each asset; determined by XFG priced in ΗΞΔŦ (as TWAP) on Hearth. 
 - **Certificates of Deposit**, term-locked ledger deposits made & paid in HΞΔŦ; earning ***variable*** % yield based on each prior epoch's network activity and paid out from Treasury's CD yield pool.  Based on fees from network activity ( Hearth trading fees & SwapXFG atomic swap fees)
 - **SwapXFG** (or **DeXFG**) , an in-house multi-chain currency exchange via p2p PTLC atomic swaps using adaptor signatures + DLEQ on all Fuego swaps, which keeps atomic swap transactions identical to standard XFG transactions with default privacy.
-- **P**rotocol **O**wned **T**reasury, not really a rare screen in DeFi, per se, but for UTXO privacy chains (w/o smart contracts) …a bit unique. Not controlled by any DAO or multisig of any kind- pure protocol. Tracks & manages all fee pools and collateral reserves; plus automatic signing of interest payments to CDs withdrawing  at the end of each 900-block epoch. (~5 days)
+- **P**rotocol **O**wned **L**iquidity (our *Aunt PoL* ), not really a rare screen in DeFi, per se, but for a UTXO privacy chain w/o smart contracts …a bit more unique. Not controlled by any DAO or multisig of any kind- pure protocol. Tracks & manages all fee pools and collateral reserves; plus automatic signing of interest payments to CDs withdrawn at the end of each 900-block epoch. (~5 days)
 
 All network protocols function viably **WITHOUT** the ~~corruption~~ involvement of any governance, governments, or *central banks*- and furthermore is achieved **WITHIN** the 100% free & open-source software of Fuego Blockchain Bank, run by a worldwide community of peer-to-peer network nodes.
 
@@ -46,7 +46,7 @@ All network protocols function viably **WITHOUT** the ~~corruption~~ involvement
 
 <sup>(*) Eldernodes are service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
-<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- our **action** is what matters. One could even escape the clutches of tyranny (**were** conditions as such) by *simply* choosing the routine action of accepting payment(s) in the form decentralized privacy currencies for any peer-based transactions already occurring from normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
+<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- your **action** is what matters most. One could even escape the clutches of tyranny *simply* by choosing the routine action of accepting payment(s) in the form of decentralized (privacy) currencies for any peer-based transactions already occurring from the normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
 
 ## Resources
 
