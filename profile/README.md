@@ -21,7 +21,7 @@ Fuego’s open-source peer-to-peer blockchain network is available online 24/7/3
 XFG (₲) is private anti-fragile money and the accounting unit used within Fuego Reserve’s blockchain ledger. XFG is minted into existence through block rewards and distributed to miners in exchange for the processing power they contribute to securing Fuego’s blockchain with ASIC-resistant proof-of-work consensus, approximately every 8 minutes. Each XFG is divisible to 7 decimal places. Just like USD cents or BTC sats, each XFG can be referenced down to its smallest unit, called fire.
 <h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
-All XFG transactions are private by default, much like cash compared to the tracking-by-default nature of credit and debit cards. Fuego Reserve adds transaction obfuscation through dynamic ring signature decoy sets (minimum 8, 16, or 32, up to the maximum allowed by transaction size limits) for maximum sender and receiver privacy.
+All XFG transactions are private by default, much like cash compared to the tracking-by-default nature of credit and debit cards. Fuego Reserve adds transaction obfuscation through dynamic ring signature decoys (sets of at minimum 8, 16, or 32 as determined by transaction size limits) for maximum sender and receiver privacy.
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/usexfg/fuego-data/master/fuego-images/CryptoNote_blockchain_analysis_ambiguity-ezgif.com-optimize.gif"><img/></h1>
 
