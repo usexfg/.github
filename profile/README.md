@@ -1,5 +1,5 @@
 # 
-# *Maison de XFG*
+# Maison de XFG
 ## 🜂 <sub><sup><code>`This Machine Mints Freedom`</code></sup></sub>
   ### 🌐 Decentralized Network
   ### 🛡️ Untraceable Transactions
@@ -10,10 +10,10 @@
 
 ## What is Fuego ?
 
-Fuego Reserve is *Le Maison de XFG*, The Sovereign House of Sound Money - Protector of Private Purchasing Power. Operating as a decentralized blockchain network built upon the CryptoNote protocol for transaction privacy, proof-of-work consensus, and a fixed supply of 8 million 8, Fuego Reserve enables value within the network ledger to inherit the same properties as XFG, and provides the sound-money assurance that all features built thereupon, need in order to offer private wealth services such as secure value storage, untraceable conveyance, preservation of purchasing power, on-chain exchange by pool or limit order, private in-house cross-chain exchange with 30 other networks, and access to yield through Certificates of Deposit (CDs) earning real yield from protocol revenue.
+Fuego Reserve is *Le Maison de XFG*, The Sovereign House of Sound Money - Protector of Private Purchasing Power. Operating by decentralized blockchain network & built upon the CryptoNote protocol for transaction privacy, proof-of-work consensus, and a fixed supply of 8 million 8, Fuego Reserve enables any amount of value transferred to within its privacy network ledger to inherit all sound money properties of XFG- which is the same sound assurance all features built thereupon, need in order to offer such unique private wealth services such as secure value storage, untraceable conveyance, preservation of purchasing power, on-chain exchange by pool or limit order, private (in-house) cross-chain exchange with 40+ high liquidity networks, and access to accrual through Certificates of Deposit (CDs) earning real yield powered by protocol revenue.
  
  
-Developed & maintained by advocates for freedom through sound money, Fuego Reserve functions as a fully sovereign privacy blockchain banking network, freely providing an open-source alternative to the archaic tyranny also known as centralized banking. Through its decentralized design, Fuego Reserve is owned not by any “one” person, nor by any singular entity, government, or corporation.  Instead through co-operation and the use of distributed consensus, Fuego is owned by The People- The Fire Mob - by all those who make use of it.
+Developed & maintained by advocates for freedom through sound money, Fuego Reserve functions as a fully sovereign privacy blockchain banking network, freely providing an open-source alternative to the archaic tyranny known also as centralized banking. Through its decentralized design, Fuego Reserve is owned not by any “one” person, nor by any singular entity, government, or corporation.  Instead through co-operation and the use of distributed consensus, Fuego is owned by The People- The Fire Mob - by all those who make use of it.
 
 Fuego’s open-source peer-to-peer blockchain network is available online 24/7/365 and is freely accessible to anyone in the world with an internet connection - as a public tool for digital privacy, economic sovereignty, and financial freedom.
 ## What is 𝐗𝐅𝐆 ?
