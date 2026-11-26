@@ -10,15 +10,19 @@
 
 ## What is Fuego ?
 
-Fuego Reserve is *Le Maison de XFG*, The Sovereign House of Sound Money - Protector of Private Purchasing Power. Operating by decentralized blockchain network & built upon the CryptoNote protocol for transaction privacy, proof-of-work consensus, and a fixed supply of 8 million 8, Fuego Reserve enables any amount of value transferred to within its privacy network ledger to inherit all sound money properties of XFG- which is the same sound assurance all features built thereupon, need in order to offer such unique private wealth services such as secure value storage, untraceable conveyance, preservation of purchasing power, on-chain exchange by pool or limit order, private (in-house) cross-chain exchange with 40+ high liquidity networks, and access to accrual through Certificates of Deposit (CDs) earning real yield powered by protocol revenue.
+Fuego Reserve is *Le Maison de XFG*.  
+
+The Sovereign House of Sound Money  -  Protector of Private Purchasing Power
+
+By operating as a fully decentralized blockchain network built upon the CryptoNote protocol for foundational transaction privacy, proof-of-work consensus, and a fixed supply of 8 million 8, Fuego Reserve enables value of unlimited amounts to be transferred privately to and within its network ledger, to inherit all sound money properties of XFG.  This same assurance in sound money is what all features built thereupon, need in order to offer wealth protection services such as secure value storage, untraceable conveyance, preservation of private purchasing power, on-chain exchange by market or limit order, private (in-house) cross-chain exchange with the highest liquidity networks, and even access to accrual through Certificates of Deposit (CDs) earning real yield powered by protocol revenue.
  
  
 Developed & maintained by advocates for freedom through sound money, Fuego Reserve functions as a fully sovereign privacy blockchain banking network, freely providing an open-source alternative to the archaic tyranny known also as centralized banking. Through its decentralized design, Fuego Reserve is owned not by any “one” person, nor by any singular entity, government, or corporation.  Instead through co-operation and the use of distributed consensus, Fuego is owned by The People- The Fire Mob - by all those who make use of it.
 
-Fuego’s open-source peer-to-peer blockchain network is available online 24/7/365 and is freely accessible to anyone in the world with an internet connection - as a public tool for digital privacy, economic sovereignty, and financial freedom.
+Fuego’s open-source peer-to-peer blockchain network is available online 24/7/365 and is freely accessible to anyone in the world with an internet connection as a public tool for digital privacy, economic sovereignty, and financial freedom.
 ## What is 𝐗𝐅𝐆 ?
 
-XFG (₲) is private anti-fragile money and the accounting unit used within Fuego Reserve’s blockchain ledger. XFG is minted into existence through block rewards and distributed to miners in exchange for the processing power they contribute to securing Fuego’s blockchain with ASIC-resistant proof-of-work consensus, approximately every 8 minutes. Each XFG is divisible to 7 decimal places. Just like USD cents or BTC sats, each XFG can be referenced down to its smallest unit, called fire.
+XFG (₲) is a private anti-fragile money which is the accounting unit used within Fuego Reserve’s blockchain ledger. XFG is minted into existence through block rewards and distributed to miners in exchange for the processing power they contribute to securing Fuego’s blockchain with ASIC-resistant proof-of-work consensus, approximately every 8 minutes. Each XFG is divisible to 7 decimal places and just like USD cents or BTC sats, each XFG can be referenced down to its smallest unit, called fire.
 <h2><sup>(₲0.0000001 = 1 fire)</sup></h2>
 
 All XFG transactions are private by default, much like cash compared to the tracking-by-default nature of credit and debit cards. Fuego Reserve adds transaction obfuscation through dynamic ring signature decoys (sets of at minimum 8, 16, or 32 as determined by transaction size limits) for maximum sender and receiver privacy.
