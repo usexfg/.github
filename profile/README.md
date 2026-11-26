@@ -41,7 +41,7 @@ Unique features of Fuego include :
 - **SwapXFG** (or **DeXFG**) , an in-house multi-chain currency exchange via p2p PTLC atomic swaps using adaptor signatures + DLEQ on all Fuego swaps, which keeps atomic swap transactions identical to standard XFG transactions with default privacy.
 - **P**rotocol **O**wned **L**iquidity (our *Aunt PoL* ), not really a rare screen in DeFi, per se, but for a UTXO privacy chain w/o smart contracts …a bit more unique. Not controlled by any DAO or multisig of any kind- pure protocol. Tracks & manages all fee pools and collateral reserves; plus automatic signing of interest payments to CDs withdrawn at the end of each 900-block epoch. (~5 days)
 
-All network protocols function viably **WITHOUT** the ~~corruption~~ involvement of any governance, governments, or *central banks*- and furthermore is achieved **WITHIN** the 100% free & open-source software of Fuego Blockchain Bank, run by a worldwide community of peer-to-peer network nodes.
+All network protocols function viably **WITHOUT** the ~~corruption~~ involvement of any governance, governments, or *central banks*- and furthermore is achieved **WITHIN** the 100% free & open-source software of Fuego Reserve Blockchain Banking Network, run by a worldwide community of peer-to-peer nodes.
 
 
 ***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XFG** is most accurately categorized as **sound** money for its privacy features, and its fixed- yet dynamic, money supply of **₲**8,000,008. And unlike even most PoW cryptocurrencies today, Fuego was designed to **thrive** within a disinflationary ecosystem; incentivized by transaction fees and reborn coinbase rewards from burns- ensuring security & block rewards for many future generations.
