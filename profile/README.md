@@ -44,11 +44,11 @@ Unique features of Fuego include :
 All network protocols function viably **WITHOUT** the ~~corruption~~ involvement of any governance, governments, or *central banks*- and furthermore is achieved **WITHIN** the 100% free & open-source software of Fuego Reserve Blockchain Banking Network, run by a worldwide community of peer-to-peer nodes.
 
 
-***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XFG** is most accurately categorized as **sound** money for its privacy features, and its fixed- yet dynamic, money supply of **₲**8,000,008. And unlike even most PoW cryptocurrencies today, Fuego was designed to **thrive** within a disinflationary ecosystem; incentivized by transaction fees and reborn coinbase rewards from burns- ensuring security & block rewards for many future generations.
+***Unlike*** traditional fiat currencies issued by central banking cartels of our world, **XFG** is most accurately categorized as **sound** money for its privacy features, and its fixed- yet dynamic, money supply of **₲**8,000,008. And unlike even most PoW cryptocurrencies today, Fuego is designed to **thrive** within a disinflationary ecosystem; incentivized by transaction fees and reborn coinbase rewards from burns- ensuring security & block rewards for many future generations.
 
 <sup>(*) Eldernodes are service nodes which earn a percentage for each txn they relay on Fuego network. For more info and a list of tutorials, see & contribute to our [Guides](https://github.com/usexfg/Guides/wiki/) section.
 
-<sup> Fuego exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- your **action** is what matters most. One could even escape the clutches of tyranny *simply* by choosing the routine action of accepting payment(s) in the form of decentralized (privacy) currencies for any peer-based transactions already occurring from the normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
+<sup> **XFG** exists only as a result of open-source contributions and regular people like you & I running free (as in freedom) software on our machines. Whether it be an act of altruism, rebellion, or an act of freedom- your **action** is what matters most. One could even escape the clutches of tyranny *simply* by choosing the routine action of accepting payment(s) in the form of decentralized (privacy) currencies for any peer-based transactions already occurring from the normal interactions of everyday, human life. *In hoc signo vinces*</sup></sup>
 
 ## Resources
 
